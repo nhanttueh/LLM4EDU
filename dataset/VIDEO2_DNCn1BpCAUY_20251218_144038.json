@@ -1,0 +1,502 @@
+{
+    "title": "Stanford CS230 | Autumn 2025 | Lecture 2: Supervised, Self-Supervised, & Weakly Supervised Learning",
+    "published_at": "08/10/2025 06:23:48",
+    "view_count": 81619,
+    "like_count": 1547,
+    "favorite_count": 0,
+    "comment_count": 71,
+    "url": "https://www.youtube.com/watch?v=DNCn1BpCAUY",
+    "description": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nSeptember 30, 2025\nThis lecture covers key AI concepts through case studies.\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs230-deep-learning\n\nTo follow along with the course schedule and syllabus, visit: https://cs230.stanford.edu/syllabus/\n\nMore lectures will be published regularly.\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X\n\nAndrew Ng\nFounder of DeepLearning.AI\nAdjunct Professor, Stanford University’s Computer Science Department\n\nKian Katanforoosh\nCEO and Founder of Workera\nAdjunct Lecturer, Stanford University’s Computer Science Department",
+    "collected_at": "18/12/2025 14:40:38",
+    "comments": [
+        {
+            "author": "@louisnguyen3579",
+            "content": "Thank you so much stanford ^^",
+            "like_count": 0,
+            "published_at": "11/12/2025 12:25:40",
+            "replies": []
+        },
+        {
+            "author": "@vanessaward7421",
+            "content": "its basically the eyeglasses for deep learning = Resolution....:)",
+            "like_count": 0,
+            "published_at": "03/12/2025 19:48:36",
+            "replies": []
+        },
+        {
+            "author": "@kaipingli-mh3mw",
+            "content": "thank  you. thank you. this is amazing!",
+            "like_count": 0,
+            "published_at": "03/12/2025 09:04:59",
+            "replies": []
+        },
+        {
+            "author": "@nkosingphiless",
+            "content": "where are these online videos?\n\nEDIT: There are slides in the syllabus",
+            "like_count": 0,
+            "published_at": "24/11/2025 22:37:36",
+            "replies": []
+        },
+        {
+            "author": "@tapu_",
+            "content": "For anyone confused about when these concepts he is talking about were taught:\nAndrew Ng didn't go in-depth on them on the in-person class (Lecture 1). They were instead taught on his own platform deep learning ai. The slides are in the cs230 syllabus available online",
+            "like_count": 12,
+            "published_at": "15/11/2025 22:20:22",
+            "replies": [
+                {
+                    "author": "@harshamv5113",
+                    "content": "Thank you. Was wondering what did i miss. Can you point me to the video on their platform?",
+                    "like_count": 0,
+                    "published_at": "08/12/2025 21:31:01"
+                },
+                {
+                    "author": "@tapu_",
+                    "content": "​@harshamv5113 mostly week 2 of their Deep Learning Specialization course",
+                    "like_count": 0,
+                    "published_at": "08/12/2025 21:35:24"
+                }
+            ]
+        },
+        {
+            "author": "@AdyaPrasad_",
+            "content": "does anyone work on \"trigger word detection\"?",
+            "like_count": 0,
+            "published_at": "15/11/2025 20:46:12",
+            "replies": []
+        },
+        {
+            "author": "@1Eagler",
+            "content": "I remember back in the 80s when they tried to create a nn to detect tanks.\nSo, when the weather was good, they took the tank out and teach the nn to recognize the tank\nWhen the weather was rough, they didnt took the tank out and teach the NN to recognize that's there isn't  a tank.\nSo, they built a NN to recognize thats a tank on good weather and to recognize there isn't a tank at bad weather!",
+            "like_count": 3,
+            "published_at": "14/11/2025 15:28:32",
+            "replies": []
+        },
+        {
+            "author": "@udbhavchitransh744",
+            "content": "Yoo messi is back again",
+            "like_count": 0,
+            "published_at": "12/11/2025 05:09:16",
+            "replies": []
+        },
+        {
+            "author": "@niraj5582",
+            "content": "These lectures are really helpful. Glad I stumbled upon these!",
+            "like_count": 0,
+            "published_at": "11/11/2025 23:03:49",
+            "replies": []
+        },
+        {
+            "author": "@melodious_minds1960",
+            "content": "Am really grateful to Stanford for making these Lectures accessible to everyone",
+            "like_count": 3,
+            "published_at": "09/11/2025 22:05:10",
+            "replies": []
+        },
+        {
+            "author": "@DookieGuides",
+            "content": "You spelled \"weekly\" wrong, may I get into Stanford for free now?",
+            "like_count": 0,
+            "published_at": "07/11/2025 06:13:02",
+            "replies": []
+        },
+        {
+            "author": "@khizarislam2450",
+            "content": "I don't understand the recap part. I might be missing some other videos - I know the format is different but would be great if someone can guide on how to follow along.",
+            "like_count": 0,
+            "published_at": "07/11/2025 04:00:04",
+            "replies": []
+        },
+        {
+            "author": "@manzarali3599",
+            "content": "can someone tell me which of the online lectures he's reffering to?",
+            "like_count": 0,
+            "published_at": "04/11/2025 14:18:51",
+            "replies": []
+        },
+        {
+            "author": "@chessmaster856",
+            "content": "There is not much being explained. You know everything right",
+            "like_count": 1,
+            "published_at": "04/11/2025 04:18:05",
+            "replies": []
+        },
+        {
+            "author": "@sunny-qw8of",
+            "content": "where can find the lecture note?",
+            "like_count": 1,
+            "published_at": "30/10/2025 14:45:13",
+            "replies": []
+        },
+        {
+            "author": "@kevinzebb",
+            "content": "I’m really liking this format over just purely the formal lectures, I just wish we got access to the formal lectures to watch before this like the students",
+            "like_count": 3,
+            "published_at": "27/10/2025 22:47:15",
+            "replies": []
+        },
+        {
+            "author": "@wuzhai2009",
+            "content": "Interesting that the board and island is on a rotating platform.",
+            "like_count": 0,
+            "published_at": "27/10/2025 10:54:49",
+            "replies": []
+        },
+        {
+            "author": "@rohithmandavilli888",
+            "content": "thank you so much stanford",
+            "like_count": 0,
+            "published_at": "26/10/2025 04:35:16",
+            "replies": []
+        },
+        {
+            "author": "@FlyinDutch19",
+            "content": "Very insightful lecture! I had also watched some other good introduction for the similar topics in AI, and this is the most pratical one from an industrial expert. Kian introduced how the AI technologyies be used in our real life. The example of the difference between passing board by using face scanning in US and Europe leave me a deep impressoin.",
+            "like_count": 0,
+            "published_at": "26/10/2025 03:30:30",
+            "replies": []
+        },
+        {
+            "author": "@kingofutopia",
+            "content": "Thank you for the best lectures and making this publicly available.\n\n\nNotes: \nProjects discussed here are day and night classification, trigger word detection, face verification and face identification",
+            "like_count": 0,
+            "published_at": "25/10/2025 00:37:14",
+            "replies": []
+        },
+        {
+            "author": "@YaofuZhou",
+            "content": "20:35 the abundance of markers lol",
+            "like_count": 1,
+            "published_at": "22/10/2025 12:52:27",
+            "replies": []
+        },
+        {
+            "author": "@UsmanKhan-mw4ye",
+            "content": "The people sitting there are indeed very lucky, they are living my dream. ❤",
+            "like_count": 1,
+            "published_at": "20/10/2025 23:32:57",
+            "replies": []
+        },
+        {
+            "author": "@aliyakholenova7549",
+            "content": "In your indoor situation for your specific case your coffe cup says more than wall clock",
+            "like_count": 0,
+            "published_at": "17/10/2025 16:00:57",
+            "replies": []
+        },
+        {
+            "author": "@anithashreenivasan",
+            "content": "Dear Stanford, Thanks to you for making this available on youtube. I have also enrolled for Deep learning specialization on coursera and learning in parallel. Big thanks to Andrew Ng, Kian Katanforoosh and all those involved in making this possible. This is a gem sitting on youtube.",
+            "like_count": 4,
+            "published_at": "16/10/2025 12:29:58",
+            "replies": [
+                {
+                    "author": "@diayans",
+                    "content": "Same here! I am excited that I caught these lectures on time to combine with the coursera specialisation",
+                    "like_count": 2,
+                    "published_at": "16/10/2025 19:35:20"
+                },
+                {
+                    "author": "@omarkhalifa5092",
+                    "content": "Dont they both cover the same stuff",
+                    "like_count": 0,
+                    "published_at": "10/11/2025 16:00:44"
+                }
+            ]
+        },
+        {
+            "author": "@lovekesh88",
+            "content": "They have completely reimagined a deep learning class. Such a fresh perspective, extremely useful even for professionals in the industry.",
+            "like_count": 3,
+            "published_at": "16/10/2025 02:59:35",
+            "replies": []
+        },
+        {
+            "author": "@vivekdixit3161",
+            "content": "hey ,thanks for the video stanford.",
+            "like_count": 1,
+            "published_at": "16/10/2025 02:27:54",
+            "replies": []
+        },
+        {
+            "author": "@nahidahmdv",
+            "content": "Thanks so much! Any idea when lecture 3 will be out?",
+            "like_count": 0,
+            "published_at": "14/10/2025 05:29:56",
+            "replies": [
+                {
+                    "author": "@FABIANANDRESROZO",
+                    "content": "Lectures are on Tuesday at 11:30 am, and they upload the videos the same day a few hours after the lectures.",
+                    "like_count": 0,
+                    "published_at": "14/10/2025 21:11:48"
+                },
+                {
+                    "author": "@nahidahmdv",
+                    "content": "@FABIANANDRESROZOthanks for your reply but it looks they won't be uploading any more of this year's lectures. :(((",
+                    "like_count": 0,
+                    "published_at": "15/10/2025 21:36:13"
+                },
+                {
+                    "author": "@FABIANANDRESROZO",
+                    "content": "@nahidahmdv They've just uploaded it",
+                    "like_count": 0,
+                    "published_at": "16/10/2025 02:42:40"
+                }
+            ]
+        },
+        {
+            "author": "@aysesalman2024",
+            "content": "THANK YOU SO MUCH.. I AM WAITING FOR THE NEXT LECTURE WITH ALL MY enthusiasm",
+            "like_count": 1,
+            "published_at": "13/10/2025 12:47:19",
+            "replies": []
+        },
+        {
+            "author": "@RajabNatshah",
+            "content": "Thank you :)",
+            "like_count": 0,
+            "published_at": "13/10/2025 02:17:32",
+            "replies": []
+        },
+        {
+            "author": "@julienvadnais50",
+            "content": "27:45 Anyone knows the source or has more information about this statement? Training on one panchromatic band vs RGB images...",
+            "like_count": 0,
+            "published_at": "12/10/2025 20:44:12",
+            "replies": []
+        },
+        {
+            "author": "@peterbedford2610",
+            "content": "Thanks for posting this",
+            "like_count": 0,
+            "published_at": "12/10/2025 07:32:13",
+            "replies": []
+        },
+        {
+            "author": "@BRichard312",
+            "content": "The primary problem with neural networks is that they are NOT practical to use in business largely due to their lack of interpretability and explainability. You can't just provide an output to a business leader and say \"here's the answer\" without describing how you got that answer along with a specific understanding of its underlying process methodology.",
+            "like_count": 3,
+            "published_at": "11/10/2025 22:52:26",
+            "replies": [
+                {
+                    "author": "@MM-uh2qk",
+                    "content": "there's explainable AI to help with that...somewhat",
+                    "like_count": 0,
+                    "published_at": "18/10/2025 08:23:55"
+                }
+            ]
+        },
+        {
+            "author": "@trump2800",
+            "content": "Stanford CS230 | Autumn 2025 | Lecture 2: Supervised, Self-Supervised, & Weakly Supervised Learning",
+            "like_count": 0,
+            "published_at": "11/10/2025 22:24:57",
+            "replies": []
+        },
+        {
+            "author": "@Mr-no-one-to-you",
+            "content": "Really Enjoyed it, Eagerly waiting for the next lecture, \nalso it would be great if you could take say some top 3-5 questions from youtube as well will really appreciate it.",
+            "like_count": 3,
+            "published_at": "11/10/2025 20:49:05",
+            "replies": []
+        },
+        {
+            "author": "@HadiJafari-x8g",
+            "content": "in face recognition case, how can you detect fraud? One situation that continuously goes through my mind is that what if someone stole an ID and also had a picture of the ID owner printed to show the camera? how can the model detect these situations?",
+            "like_count": 0,
+            "published_at": "11/10/2025 20:08:14",
+            "replies": [
+                {
+                    "author": "@FABIANANDRESROZO",
+                    "content": "I am not an expert here, but i think it would be similar to the iphone features to know that is your face and not an image, using infrared points to map your face, but it is like different hardware you are using, so I think you could not tell the difference between an image and a real person in that case. Anyways I think he said that in some classes they will cover adversary techniques, so we hope them to include this case.",
+                    "like_count": 1,
+                    "published_at": "14/10/2025 21:14:46"
+                },
+                {
+                    "author": "@seanpaulson9098",
+                    "content": "Id guess it could just detect micro movements in the face where an image would be still.",
+                    "like_count": 0,
+                    "published_at": "05/11/2025 01:01:20"
+                }
+            ]
+        },
+        {
+            "author": "@HadiJafari-x8g",
+            "content": "is there any way for us to watch the videos you are mentioning in the lecture as well? if not is it possible to mention the titles so that we search for them before watching the lecture?",
+            "like_count": 15,
+            "published_at": "11/10/2025 18:56:09",
+            "replies": []
+        },
+        {
+            "author": "@Aya_Shawky",
+            "content": "I really enjoyed learning this lecture, thank you",
+            "like_count": 0,
+            "published_at": "11/10/2025 03:34:56",
+            "replies": []
+        },
+        {
+            "author": "@sturts1234",
+            "content": "thanks for uploading this",
+            "like_count": 0,
+            "published_at": "10/10/2025 20:09:15",
+            "replies": []
+        },
+        {
+            "author": "@dianzhang1015",
+            "content": "May I ask where I can get the slides of the course？",
+            "like_count": 0,
+            "published_at": "10/10/2025 10:21:14",
+            "replies": []
+        },
+        {
+            "author": "@randysaid9323",
+            "content": "Amazing video",
+            "like_count": 1,
+            "published_at": "09/10/2025 09:59:29",
+            "replies": []
+        },
+        {
+            "author": "@Green-Code",
+            "content": "Thank you for uploading these!!",
+            "like_count": 5,
+            "published_at": "09/10/2025 01:16:47",
+            "replies": [
+                {
+                    "author": "@ahmedkhidre4876",
+                    "content": "No they will",
+                    "like_count": 0,
+                    "published_at": "16/10/2025 03:24:07"
+                }
+            ]
+        },
+        {
+            "author": "@dipanjanmandal1771",
+            "content": "It's good to go",
+            "like_count": 2,
+            "published_at": "08/10/2025 21:07:03",
+            "replies": []
+        },
+        {
+            "author": "@enisten",
+            "content": "6:06 What videos?🤨",
+            "like_count": 0,
+            "published_at": "08/10/2025 19:16:33",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching! The optional video is part of the course's modules. To follow along with the course schedule and syllabus, visit: https://cs230.stanford.edu/syllabus/",
+                    "like_count": 4,
+                    "published_at": "09/10/2025 02:10:13"
+                }
+            ]
+        },
+        {
+            "author": "@PrzemekSmyrdek",
+            "content": "Is there a chance to get access to additional videos that participants watch between these ones?",
+            "like_count": 18,
+            "published_at": "08/10/2025 16:22:59",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thanks for watching! Our lectures are free on YouTube, and enrolled learners get access to the full set of course materials. To learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs230-deep-learning.",
+                    "like_count": 4,
+                    "published_at": "09/10/2025 02:06:00"
+                },
+                {
+                    "author": "@inwoodbutterflysanctuary",
+                    "content": "​@stanfordonlineany scholarship possibility? @Keithjdecesare @igentixai",
+                    "like_count": 0,
+                    "published_at": "09/10/2025 22:30:22"
+                },
+                {
+                    "author": "@nahidahmdv",
+                    "content": "@stanfordonline Any idea when lecture 3 will be out?",
+                    "like_count": 1,
+                    "published_at": "16/10/2025 01:41:01"
+                }
+            ]
+        },
+        {
+            "author": "@Мария30546",
+            "content": "Спасибо!!! Вторая лекция🙏🏻",
+            "like_count": 0,
+            "published_at": "08/10/2025 14:28:12",
+            "replies": []
+        },
+        {
+            "author": "@AsifMarwatX",
+            "content": "Thanks A lot",
+            "like_count": 0,
+            "published_at": "08/10/2025 14:00:02",
+            "replies": []
+        },
+        {
+            "author": "@mfanwar67",
+            "content": "Thanks a lot. In Pakistan we do appreciate much better than other countries. Stanford Uni. Regards.",
+            "like_count": 2,
+            "published_at": "08/10/2025 11:37:28",
+            "replies": []
+        },
+        {
+            "author": "@Muhammadzeb-n2t",
+            "content": "where is lecture no 1 ?",
+            "like_count": 0,
+            "published_at": "08/10/2025 09:37:58",
+            "replies": [
+                {
+                    "author": "@poojithinavolu9716",
+                    "content": "It's in the channel watch",
+                    "like_count": 1,
+                    "published_at": "08/10/2025 14:28:01"
+                },
+                {
+                    "author": "@omarkhalifa5092",
+                    "content": "U can skip it",
+                    "like_count": 0,
+                    "published_at": "10/11/2025 16:02:30"
+                }
+            ]
+        },
+        {
+            "author": "@rohitahuja5274",
+            "content": "Thanks to Technologies making these important lectures of Stanford University accessible to everyone around the world❤",
+            "like_count": 52,
+            "published_at": "08/10/2025 09:33:06",
+            "replies": []
+        },
+        {
+            "author": "@RaviKumar-mx4od",
+            "content": "I request to everyone who watch please like it videos ❤🙏",
+            "like_count": 3,
+            "published_at": "08/10/2025 09:09:06",
+            "replies": []
+        },
+        {
+            "author": "@RaviKumar-mx4od",
+            "content": "Thanks ❤",
+            "like_count": 2,
+            "published_at": "08/10/2025 08:54:12",
+            "replies": []
+        },
+        {
+            "author": "@anthonyc2238",
+            "content": "Keep them coming :)",
+            "like_count": 0,
+            "published_at": "08/10/2025 07:57:19",
+            "replies": []
+        },
+        {
+            "author": "@enisten",
+            "content": "Noice",
+            "like_count": 0,
+            "published_at": "08/10/2025 07:26:14",
+            "replies": []
+        },
+        {
+            "author": "@tak3511",
+            "content": "thanks  a lot for publishing!",
+            "like_count": 16,
+            "published_at": "08/10/2025 06:38:34",
+            "replies": []
+        }
+    ]
+}

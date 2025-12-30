@@ -1,0 +1,275 @@
+{
+    "title": "Stanford CS230 | Autumn 2025 | Lecture 3: Full Cycle of a DL project",
+    "published_at": "16/10/2025 02:30:55",
+    "view_count": 35716,
+    "like_count": 712,
+    "favorite_count": 0,
+    "comment_count": 39,
+    "url": "https://www.youtube.com/watch?v=MGqQuQEUXhk",
+    "description": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nOctober 7, 2025\nThis lecture covers the full cycle of a DL project.\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs230-deep-learning\n\nTo follow along with the course schedule and syllabus, visit: https://cs230.stanford.edu/syllabus/\n\nMore lectures will be published regularly.\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X\n\nAndrew Ng\nFounder of DeepLearning.AI\nAdjunct Professor, Stanford University’s Computer Science Department\n\nKian Katanforoosh\nCEO and Founder of Workera\nAdjunct Lecturer, Stanford University’s Computer Science Department",
+    "collected_at": "18/12/2025 14:40:38",
+    "comments": [
+        {
+            "author": "@1Eagler",
+            "content": "44:00 wouldn't you need to retrain the small NN?",
+            "like_count": 0,
+            "published_at": "15/11/2025 18:19:01",
+            "replies": []
+        },
+        {
+            "author": "@huyvo9105",
+            "content": "i cant here the student's questions",
+            "like_count": 0,
+            "published_at": "27/10/2025 09:13:09",
+            "replies": []
+        },
+        {
+            "author": "@adeyemibiola9763",
+            "content": "Can anyone point me to where I can find the additional online video  referred to by Andrew. Thanks",
+            "like_count": 2,
+            "published_at": "23/10/2025 10:50:34",
+            "replies": [
+                {
+                    "author": "@jayyvyy",
+                    "content": "he was refering to the coursera lectures, that the students are going to cover in the course",
+                    "like_count": 1,
+                    "published_at": "16/11/2025 01:29:40"
+                },
+                {
+                    "author": "@adeyemibiola9763",
+                    "content": "@jayyvyythat is, the lecture is available on Coursera ? Can you point me to the course, I have a Coursera subscription. Thanks.",
+                    "like_count": 0,
+                    "published_at": "16/11/2025 01:51:42"
+                },
+                {
+                    "author": "@ahmedemad503",
+                    "content": "​@adeyemibiola9763there is a link in the description that points to the syllabus there you can find which course they study with the on site lectures",
+                    "like_count": 0,
+                    "published_at": "07/12/2025 22:35:55"
+                }
+            ]
+        },
+        {
+            "author": "@wajidiqbal5633",
+            "content": "Just finished the lecture, and Andrew is so good at making things simpler and easier.",
+            "like_count": 1,
+            "published_at": "21/10/2025 16:31:58",
+            "replies": [
+                {
+                    "author": "@adeyemibiola9763",
+                    "content": "Can you point me to where I can find the additional video lecture for this course. Thanks",
+                    "like_count": 0,
+                    "published_at": "23/10/2025 10:51:35"
+                }
+            ]
+        },
+        {
+            "author": "@ericxu7681",
+            "content": "As a MLE with 3 year of experience in Google, I still learn a lot from this lecture. I really don’t understand what the haters are complaining about here….",
+            "like_count": 13,
+            "published_at": "20/10/2025 17:14:47",
+            "replies": [
+                {
+                    "author": "@Factronyx-q2j",
+                    "content": "Hii",
+                    "like_count": 0,
+                    "published_at": "22/10/2025 23:26:42"
+                },
+                {
+                    "author": "@geekyprogrammer4831",
+                    "content": "you are still a beginner. 3 years is nothing",
+                    "like_count": 1,
+                    "published_at": "10/11/2025 04:25:39"
+                }
+            ]
+        },
+        {
+            "author": "@artstudio-f9p",
+            "content": "Andrew is the perfect lecturer he has the demeanor and the enthusiasm and explain ability all in top tier",
+            "like_count": 5,
+            "published_at": "19/10/2025 23:38:20",
+            "replies": []
+        },
+        {
+            "author": "@Yassu_Tv-official",
+            "content": "lecture 2 ? i dont see ir ...",
+            "like_count": 1,
+            "published_at": "18/10/2025 23:48:46",
+            "replies": []
+        },
+        {
+            "author": "@StéphaneKREBS-l6p1n",
+            "content": "Un cours surprenant et pratique qui donne les éléments professionnels pour concevoir des modèles de machine learning. Bravo Andrew ;)",
+            "like_count": 0,
+            "published_at": "18/10/2025 16:11:10",
+            "replies": []
+        },
+        {
+            "author": "@maratgarifullin6950",
+            "content": "Hello Andrew, thank you for your lecture. If possible, please respond to my question. I want to create an AI-based website for searching SMD components. The specific manufacturer part numbers make it difficult to identify them properly. May I ask what data sources I should use? Should I use publicly available PDF datasheets, or is it better to refer directly to the primary sources—electronic component manufacturers' websites?",
+            "like_count": 0,
+            "published_at": "18/10/2025 01:17:05",
+            "replies": [
+                {
+                    "author": "@disc999golfer999",
+                    "content": "Good Question.  I would use all of the data sources you mentioned.  And create your own curated dataset.  Focus on the specific task your website is to solve.  Format your dataset into a question and answer pair.  Figure out the different kind of questions someone might ask.  Plan on your model sorting out the ambiguity in the question being asked by having it ask additional clarifying questions.  You can use a \"Task\" oriented approach where the answer isn't shown until all the elements in your \"frame\" have been filled with data.  Good Luck",
+                    "like_count": 1,
+                    "published_at": "24/10/2025 10:41:17"
+                }
+            ]
+        },
+        {
+            "author": "@Mani_reddy69",
+            "content": "This guy only wears a blue shirt.",
+            "like_count": 7,
+            "published_at": "17/10/2025 23:52:39",
+            "replies": []
+        },
+        {
+            "author": "@Emre-tp2br",
+            "content": "Not launge tr",
+            "like_count": 0,
+            "published_at": "17/10/2025 21:56:11",
+            "replies": []
+        },
+        {
+            "author": "@errdhtiwari4531",
+            "content": "I love to watch Andrew Ng's lectures.",
+            "like_count": 7,
+            "published_at": "16/10/2025 14:59:26",
+            "replies": [
+                {
+                    "author": "@zhzhsgg",
+                    "content": "same+1",
+                    "like_count": 0,
+                    "published_at": "16/10/2025 23:56:00"
+                }
+            ]
+        },
+        {
+            "author": "@jzburns1990",
+            "content": "Terrible lecture. Dull and repetitive.",
+            "like_count": 7,
+            "published_at": "16/10/2025 13:58:35",
+            "replies": [
+                {
+                    "author": "@maryamashraff8096",
+                    "content": "stop being a hater and not watch it then, there are alot of other people who finds this video extremely educational",
+                    "like_count": 0,
+                    "published_at": "19/11/2025 12:38:09"
+                }
+            ]
+        },
+        {
+            "author": "@anthonyandiles5946",
+            "content": "Andrew Ng is horrible teacher. He uses notes and can’t teach naturally. What has Andrew ng even done besides teach? Why isn’t he as smart as Demis hasabis?",
+            "like_count": 2,
+            "published_at": "16/10/2025 08:26:23",
+            "replies": [
+                {
+                    "author": "@neutralneuralsun",
+                    "content": "He started the Brain project at Google.  He may not be as smart as D. Hassabi but he is certainly a lot smarter than you.",
+                    "like_count": 10,
+                    "published_at": "16/10/2025 09:35:32"
+                },
+                {
+                    "author": "@anthonyandiles5946",
+                    "content": "@neutralneuralsunso you deleted my comment?",
+                    "like_count": 0,
+                    "published_at": "16/10/2025 10:57:02"
+                },
+                {
+                    "author": "@ColdZera14",
+                    "content": "Another rage baiter",
+                    "like_count": 5,
+                    "published_at": "16/10/2025 11:21:52"
+                },
+                {
+                    "author": "@mirkamolrakhimov",
+                    "content": "why you come  to learn here then",
+                    "like_count": 4,
+                    "published_at": "16/10/2025 13:33:49"
+                },
+                {
+                    "author": "@peterbedford2610",
+                    "content": "Hes giving real world examples of how to structure a solution that is commercially viable based on his experiebce.\nThis is extremely valuable.",
+                    "like_count": 2,
+                    "published_at": "16/10/2025 20:03:21"
+                }
+            ]
+        },
+        {
+            "author": "@peterbedford2610",
+            "content": "Thank you",
+            "like_count": 4,
+            "published_at": "16/10/2025 08:10:48",
+            "replies": []
+        },
+        {
+            "author": "@shafagh80",
+            "content": "Content isn’t available ??",
+            "like_count": 0,
+            "published_at": "16/10/2025 07:03:21",
+            "replies": [
+                {
+                    "author": "@mirkamolrakhimov",
+                    "content": "you can not see or what?",
+                    "like_count": 0,
+                    "published_at": "16/10/2025 13:33:25"
+                },
+                {
+                    "author": "@shafagh80",
+                    "content": "@mirkamolrakhimovlast night I guess YouTube had an issue or sth else it wasn’t loading",
+                    "like_count": 0,
+                    "published_at": "16/10/2025 15:22:12"
+                }
+            ]
+        },
+        {
+            "author": "@PodCastLoop2024",
+            "content": "Standford Amazing to see another lecture droped lets go,how can we get hands on those intermediate lectures or preparatory lectures that are not uploaded on yt directly",
+            "like_count": 1,
+            "published_at": "16/10/2025 03:27:07",
+            "replies": [
+                {
+                    "author": "@geekyprogrammer4831",
+                    "content": "harvard???",
+                    "like_count": 0,
+                    "published_at": "17/10/2025 02:33:43"
+                },
+                {
+                    "author": "@PodCastLoop2024",
+                    "content": "@geekyprogrammer4831 I Mean Harvard's yt channel admin or head or whatever,like they have the knowledge about those lectures",
+                    "like_count": 0,
+                    "published_at": "17/10/2025 02:41:05"
+                },
+                {
+                    "author": "@geekyprogrammer4831",
+                    "content": "@PodCastLoop2024 you are really making fool of yourself. It is Stanford not Harvard. There is a difference",
+                    "like_count": 0,
+                    "published_at": "17/10/2025 02:56:17"
+                },
+                {
+                    "author": "@PodCastLoop2024",
+                    "content": "@geekyprogrammer4831 tha\nnks for correction just mistook it in mind while writing it",
+                    "like_count": 0,
+                    "published_at": "17/10/2025 07:18:58"
+                }
+            ]
+        },
+        {
+            "author": "@silam4788",
+            "content": "So the class is lasting only one hour?",
+            "like_count": 0,
+            "published_at": "16/10/2025 02:55:55",
+            "replies": [
+                {
+                    "author": "@mirkamolrakhimov",
+                    "content": "yes because of edit",
+                    "like_count": 0,
+                    "published_at": "16/10/2025 13:32:59"
+                }
+            ]
+        }
+    ]
+}

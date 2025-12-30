@@ -1,0 +1,216 @@
+{
+    "title": "Stanford CS230 | Autumn 2025 | Lecture 6: AI Project Strategy",
+    "published_at": "05/11/2025 07:02:34",
+    "view_count": 25520,
+    "like_count": 529,
+    "favorite_count": 0,
+    "comment_count": 29,
+    "url": "https://www.youtube.com/watch?v=s6JVGzABKho",
+    "description": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nOctober 28, 2025\nThis lecture provides walkthroughs of examples of AI projects and making day-to-day decisions in building AI systems.\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs230-deep-learning\n\nTo follow along with the course schedule and syllabus, visit: https://cs230.stanford.edu/syllabus/\n\nMore lectures will be published regularly.\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X\n\nNOTE: There was no class on November 4, 2025 (Lecture 7). The next lecture is Lecture 8.\n\nAndrew Ng\nFounder of DeepLearning.AI\nAdjunct Professor, Stanford University’s Computer Science Department\n\nKian Katanforoosh\nCEO and Founder of Workera\nAdjunct Lecturer, Stanford University’s Computer Science Department",
+    "collected_at": "18/12/2025 14:40:39",
+    "comments": [
+        {
+            "author": "@WuAndy-xt6rw",
+            "content": "8:51 Voice Reg APIs like Baidu's are much easier to use than open source models (when ur connected to internet)",
+            "like_count": 0,
+            "published_at": "30/11/2025 07:49:36",
+            "replies": []
+        },
+        {
+            "author": "@obah683",
+            "content": "Hi, please how to let a training run for a long time (e.g. 4 hours, overnight)",
+            "like_count": 0,
+            "published_at": "25/11/2025 07:18:35",
+            "replies": []
+        },
+        {
+            "author": "@kingofutopia",
+            "content": "Thank you",
+            "like_count": 0,
+            "published_at": "21/11/2025 21:02:51",
+            "replies": []
+        },
+        {
+            "author": "@1Eagler",
+            "content": "1:10:00 do you build a model for finding the search terns?",
+            "like_count": 0,
+            "published_at": "19/11/2025 00:50:50",
+            "replies": []
+        },
+        {
+            "author": "@1Eagler",
+            "content": "33:00 accurancy isnt just one number. Its % of false positives and % true positives.",
+            "like_count": 0,
+            "published_at": "18/11/2025 02:51:04",
+            "replies": []
+        },
+        {
+            "author": "@faruknane",
+            "content": "Please use digital presentation, bitte.",
+            "like_count": 0,
+            "published_at": "15/11/2025 21:49:45",
+            "replies": []
+        },
+        {
+            "author": "@arthurneves3644",
+            "content": "Arer they going to post every class ?",
+            "like_count": 1,
+            "published_at": "13/11/2025 10:25:26",
+            "replies": [
+                {
+                    "author": "@1Eagler",
+                    "content": "The next is Nov 28",
+                    "like_count": 1,
+                    "published_at": "19/11/2025 00:53:12"
+                }
+            ]
+        },
+        {
+            "author": "@afritvtz",
+            "content": "this lecture was surprisingly engaging 😄",
+            "like_count": 0,
+            "published_at": "12/11/2025 08:06:22",
+            "replies": []
+        },
+        {
+            "author": "@nickhill1476",
+            "content": "If the model takes weeks how do you stop like crashes do to syntax or data mismatches? or do you just have to break eggs to build the omlete type thing",
+            "like_count": 0,
+            "published_at": "11/11/2025 04:26:23",
+            "replies": []
+        },
+        {
+            "author": "@TOP_IITIAN_GAMER",
+            "content": "the examples really made it clear for me 👍",
+            "like_count": 0,
+            "published_at": "11/11/2025 03:42:34",
+            "replies": []
+        },
+        {
+            "author": "@crazyscience292",
+            "content": "these are the videos that should have multiple audio support @youtube",
+            "like_count": 9,
+            "published_at": "09/11/2025 02:19:38",
+            "replies": [
+                {
+                    "author": "@WuAndy-xt6rw",
+                    "content": "you should @Stanford Online",
+                    "like_count": 0,
+                    "published_at": "30/11/2025 07:50:07"
+                }
+            ]
+        },
+        {
+            "author": "@Exhora",
+            "content": "It is hard to follow a full course when the sound quality is so bad. But anyway, thanks for providing free lectures from Andrew Ng to the world. I will make my best to follow what he is saying.",
+            "like_count": 0,
+            "published_at": "07/11/2025 17:55:26",
+            "replies": [
+                {
+                    "author": "@1Eagler",
+                    "content": "Subtitles",
+                    "like_count": 0,
+                    "published_at": "19/11/2025 00:52:52"
+                }
+            ]
+        },
+        {
+            "author": "@MrDemonY",
+            "content": "Thank you",
+            "like_count": 0,
+            "published_at": "07/11/2025 16:17:57",
+            "replies": []
+        },
+        {
+            "author": "@MinhBi-o4f",
+            "content": "Your explanations are very clear, thanks!",
+            "like_count": 0,
+            "published_at": "07/11/2025 13:18:55",
+            "replies": []
+        },
+        {
+            "author": "@DrAmirMehmood404",
+            "content": "Please improve the sound quality.",
+            "like_count": 10,
+            "published_at": "06/11/2025 14:30:11",
+            "replies": [
+                {
+                    "author": "@MrZerged",
+                    "content": "It’s free deal with it.",
+                    "like_count": 0,
+                    "published_at": "26/11/2025 09:38:14"
+                }
+            ]
+        },
+        {
+            "author": "@yonatabejiga9536",
+            "content": "Sound needs to improve for next",
+            "like_count": 2,
+            "published_at": "06/11/2025 00:20:56",
+            "replies": []
+        },
+        {
+            "author": "@blossomofwisdom",
+            "content": "unfortunately his voice is too low and he  do not speak clearly.",
+            "like_count": 1,
+            "published_at": "06/11/2025 00:15:52",
+            "replies": []
+        },
+        {
+            "author": "@briancoder7621",
+            "content": "Very useful. Thank you so much Sir.",
+            "like_count": 2,
+            "published_at": "05/11/2025 23:17:21",
+            "replies": []
+        },
+        {
+            "author": "@furrukhjamal00",
+            "content": "whats the difference bw this course and CS 231n?",
+            "like_count": 0,
+            "published_at": "05/11/2025 20:53:09",
+            "replies": []
+        },
+        {
+            "author": "@journeyofaiengineer",
+            "content": "I was waiting for this lecture thankyou so much Sir Andrew Ng",
+            "like_count": 1,
+            "published_at": "05/11/2025 16:59:29",
+            "replies": []
+        },
+        {
+            "author": "@IqtisodchiAkkounti",
+            "content": "From tomorrow i will start",
+            "like_count": 1,
+            "published_at": "05/11/2025 11:57:01",
+            "replies": [
+                {
+                    "author": "@BiswadeepDas-q5h",
+                    "content": "Tommorow never comes start now 😊",
+                    "like_count": 2,
+                    "published_at": "05/11/2025 13:30:58"
+                }
+            ]
+        },
+        {
+            "author": "@HassanAwais-p7h",
+            "content": "Learning a lot of God bless you",
+            "like_count": 0,
+            "published_at": "05/11/2025 11:12:13",
+            "replies": []
+        },
+        {
+            "author": "@Okhaiji",
+            "content": "You need to fine tune voice as there is echo",
+            "like_count": 6,
+            "published_at": "05/11/2025 10:14:23",
+            "replies": []
+        },
+        {
+            "author": "@innerbloomset",
+            "content": "this is the guy.",
+            "like_count": 1,
+            "published_at": "05/11/2025 07:16:55",
+            "replies": []
+        }
+    ]
+}

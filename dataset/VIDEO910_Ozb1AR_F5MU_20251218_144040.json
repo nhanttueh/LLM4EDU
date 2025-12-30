@@ -1,0 +1,58 @@
+{
+    "title": "Stanford CS230 | Autumn 2025 | Lecture 10: What’s Going On Inside My Model?",
+    "published_at": "16/12/2025 06:32:30",
+    "view_count": 4760,
+    "like_count": 111,
+    "favorite_count": 0,
+    "comment_count": 8,
+    "url": "https://www.youtube.com/watch?v=Ozb1AR_F5MU",
+    "description": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nDecember 2, 2025\nThis lecture covers what's happening inside your model and provides a class wrap-up.\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs230-deep-learning\n\nPlease follow along with the course schedule and syllabus: https://cs230.stanford.edu/syllabus/\n\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X\n\nAndrew Ng\nFounder of DeepLearning.AI\nAdjunct Professor, Stanford University’s Computer Science Department\n\nKian Katanforoosh\nCEO and Founder of Workera\nAdjunct Lecturer, Stanford University’s Computer Science Department",
+    "collected_at": "18/12/2025 14:40:40",
+    "comments": [
+        {
+            "author": "@aifakepro",
+            "content": "Excellent approaches to data tracing, with a discussion of nuances. I constantly encounter the fact that theory and practice differ.",
+            "like_count": 0,
+            "published_at": "16/12/2025 19:20:47",
+            "replies": []
+        },
+        {
+            "author": "@MinooshTheGeek",
+            "content": "YouTube title mistakenly says lecture 10 guys.\nIt's lecture 9.",
+            "like_count": 1,
+            "published_at": "16/12/2025 06:36:04",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching! This lecture took place on December 2, 2025, which makes it Lecture 10. You can follow the course syllabus here: https://cs230.stanford.edu/syllabus/",
+                    "like_count": 3,
+                    "published_at": "16/12/2025 07:54:19"
+                },
+                {
+                    "author": "@yogeshdevkate4876",
+                    "content": "@stanfordonline where is lecture 8 and 9 ? please upload",
+                    "like_count": 3,
+                    "published_at": "16/12/2025 09:27:48"
+                },
+                {
+                    "author": "@WanderABit",
+                    "content": "@stanfordonline In such case, can we ask for upload for video 9? Many thanks.",
+                    "like_count": 0,
+                    "published_at": "16/12/2025 17:29:08"
+                },
+                {
+                    "author": "@WanderABit",
+                    "content": "@yogeshdevkate4876 8 is already uploaded, check the playlist. The 9 is missing though.",
+                    "like_count": 0,
+                    "published_at": "16/12/2025 17:29:33"
+                },
+                {
+                    "author": "@stanfordonline",
+                    "content": "@yogeshdevkate4876 Thank you for watching! Lecture 8 is here: https://youtu.be/k1njvbBmfsw. You can find the link to the full playlist within the description of each video.",
+                    "like_count": 0,
+                    "published_at": "17/12/2025 01:10:31"
+                }
+            ]
+        }
+    ]
+}

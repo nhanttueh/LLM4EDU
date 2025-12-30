@@ -1,0 +1,672 @@
+{
+    "title": "Stanford CS230 | Autumn 2025 | Lecture 8: Agents, Prompts, and RAG",
+    "published_at": "22/11/2025 06:08:57",
+    "view_count": 148696,
+    "like_count": 3299,
+    "favorite_count": 0,
+    "comment_count": 95,
+    "url": "https://www.youtube.com/watch?v=k1njvbBmfsw",
+    "description": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nNovember 11, 2025\nThis lecture covers agents, prompts, and RAG. \n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs230-deep-learning\n\nPlease follow along with the course schedule and syllabus: https://cs230.stanford.edu/syllabus/\n\nMore lectures will be published regularly.\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X\n\nNOTE: There was no class on November 4, 2025 (Lecture 7). The previous lecture is Lecture 6.\n\nAndrew Ng\nFounder of DeepLearning.AI\nAdjunct Professor, Stanford University’s Computer Science Department\n\nKian Katanforoosh\nCEO and Founder of Workera\nAdjunct Lecturer, Stanford University’s Computer Science Department",
+    "collected_at": "18/12/2025 14:40:39",
+    "comments": [
+        {
+            "author": "@makeaniiimpactYT",
+            "content": "The \"White Collar Bloodbath\" isn't coming, it's here...\n\nSeveral top economic researchers, including Tom Cunningham, recently resigned from OpenAI. Allegations that the research team was becoming a \"propaganda arm\" rather than a source of truth.The internal data shows we are effectively replacing the entry level employee. The hiring stats back this up too as there is a massive drop in employment for people under twenty five.\n\nThe \"grunt work\", the tasks we used to give juniors so they could learn the ropes, make mistakes, and grow into seniors is disappearing. The AI is doing it faster, cheaper, and now, often better. The new GPT 5.2 numbers show it is building complex workforce planning models and leveraged buyouts that aren't just accurate but are actually preferred by hiring managers. These are blind tests by veterans with over a decade of experience at major banks and tech firms. They picked the AI output 60% of the time...60% of the time it works every time.\n\nIf you are 30+, you are somewhat safe for now if you embrace AI. You have the context and the expertise to direct the AI..but the youngins are screwed.\n\nthere's going to be blood on the streets pretty soon...and it's about it get ugly.",
+            "like_count": 0,
+            "published_at": "18/12/2025 01:35:14",
+            "replies": []
+        },
+        {
+            "author": "@ololandai",
+            "content": "A healthy perspective of the entire ecosystem behind Agentic AI",
+            "like_count": 1,
+            "published_at": "16/12/2025 23:57:38",
+            "replies": []
+        },
+        {
+            "author": "@isatousarr7044",
+            "content": "Agents, prompts, and retrieval-augmented generation (RAG) represent complementary approaches within the evolving landscape of AI and natural language processing. Agents—autonomous or semi-autonomous systems built on large language models—extend the capabilities of LLMs by enabling multi-step reasoning, task execution, and interaction with external tools or environments. By structuring interactions as a sequence of actions, agents provide a framework for bridging natural language understanding with goal-directed behavior, raising questions about planning, decision-making, and context management in artificial systems.\r\n\r\nPrompts serve as the interface between human intent and model behavior, shaping outputs through carefully designed instructions or exemplars. The study of prompt engineering highlights the sensitivity of LLMs to input phrasing and the potential for nuanced control over generated responses, while also revealing limitations in robustness, interpretability, and bias propagation.\r\n\r\nRetrieval-augmented generation (RAG) integrates external knowledge sources with language models, allowing systems to access up-to-date, domain-specific, or factual information during generation. By combining retrieval mechanisms with generative capabilities, RAG addresses key limitations of LLMs, such as hallucination and outdated knowledge, while opening avenues for more reliable, contextually grounded AI applications.\r\n\r\nTogether, these developments underscore a shift from static, pre-trained models to interactive, knowledge-integrated systems. They prompt critical questions about evaluation standards, epistemic reliability, and the balance between autonomous reasoning and human oversight in AI systems. Exploring agents, prompts, and RAG in tandem provides a conceptual and practical framework for understanding the next generation of intelligent, adaptable, and context-aware language technologies.",
+            "like_count": 0,
+            "published_at": "16/12/2025 01:03:11",
+            "replies": []
+        },
+        {
+            "author": "@eduardoinc2564",
+            "content": "Hello, I noticed that the course content is currently available up to the seventh class, although the syllabus mentions ten classes. Will the remaining classes be uploaded soon? Thank you.",
+            "like_count": 0,
+            "published_at": "15/12/2025 12:32:36",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching! Yes, they will be uploaded; however, there was no class on Democracy Day as noted in the syllabus.",
+                    "like_count": 1,
+                    "published_at": "16/12/2025 00:16:58"
+                },
+                {
+                    "author": "@eduardoinc2564",
+                    "content": "@stanfordonline Thank you for the answer. I'll wait as long as it takes.",
+                    "like_count": 0,
+                    "published_at": "16/12/2025 13:18:12"
+                },
+                {
+                    "author": "@stanfordonline",
+                    "content": "@eduardoinc2564 All lectures are now published. Thank you for your patience. You can use this playlist: https://youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X&si=H906GiyM8DcvhkaJ",
+                    "like_count": 1,
+                    "published_at": "17/12/2025 07:47:52"
+                }
+            ]
+        },
+        {
+            "author": "@shivibhatia1613",
+            "content": "Amazing lecture however even this lecture leaves you pondering that best colleges also don’t relate with how fast the research is happening . Explain MCP was suggesting better than API - however there are fa more security issues, context window consumption and increased cost when utilizing MCP . Even Anthropic suggests not to use MCP everywhere",
+            "like_count": 0,
+            "published_at": "15/12/2025 04:45:14",
+            "replies": []
+        },
+        {
+            "author": "@sousoux",
+            "content": "What kind of surprises me in this lecture is that there is so little scientific motivation for the information given. It seems to mostly be information based on experimentation.",
+            "like_count": 1,
+            "published_at": "14/12/2025 23:46:35",
+            "replies": []
+        },
+        {
+            "author": "@abhilekhkalita123",
+            "content": "Thanks for sharing.",
+            "like_count": 0,
+            "published_at": "13/12/2025 14:48:44",
+            "replies": []
+        },
+        {
+            "author": "@siddhantgupta7831",
+            "content": "Amazing view to build the mental model around LLM and different tech stack on top of it. Thanks Stanford for making it public.",
+            "like_count": 0,
+            "published_at": "13/12/2025 13:03:42",
+            "replies": []
+        },
+        {
+            "author": "@CinaminLee",
+            "content": "Can someone in this class create a system that can recognize my cat or dog by look or sound (maybe even understand what it's meowing/barking about ) and dispense it food or open up the door so it can exit and enter?  That would be very helpful. :) And then bonus for a robot that can clean up their poop!! 🙌",
+            "like_count": 0,
+            "published_at": "13/12/2025 02:21:23",
+            "replies": []
+        },
+        {
+            "author": "@OtabekJuraev",
+            "content": "Finally we need to run funding round or donations to purchase Stanford a good collar microphone 😅",
+            "like_count": 4,
+            "published_at": "12/12/2025 16:55:03",
+            "replies": [
+                {
+                    "author": "@BoxyML",
+                    "content": "Agreed. These are quality lectures. Deserve a quality mic",
+                    "like_count": 1,
+                    "published_at": "13/12/2025 04:37:35"
+                }
+            ]
+        },
+        {
+            "author": "@laviefu0630",
+            "content": "02:04 Explaining Fine-tuning and Its Limitations, Emphasizing the Need to Avoid It When Possible  \r\n02:20 Introduction to the Principles and Applications of Retrieval-Augmented Generation (RAG)  \r\n02:36 Discussion of the Definition and Examples of Agentic AI Workflows  \r\n03:23 Brief Exploration of Multi-Agent Workflows and Future Prospects for AI  \r\n03:52 Open-Ended Question: What Limitations Does a Base Model Face When Used Alone?  \r\n09:39 LLMs May Perform Poorly on Specific Tasks, Especially When Lacking Domain-Specific Knowledge  \r\n11:22 Issues with LLMs Handling Limited Context and Challenges in Long-Text Processing  \r\n13:05 Explaining the \"Needle in a Haystack\" Problem: Difficulties in Extracting Information from Large Texts  \r\n14:32 Discussion of RAG: Its Advantages as an LLM Augmentation Mechanism and Long-Term Potential  \r\n16:42 Two Main Dimensions for Improving LLMs: Base Model Enhancements vs. Application Engineering  \r\n18:11 Beginning the Discussion on Prompt Engineering: Its Importance and Impact  \r\n21:49 Basic Prompt Design Principles: Optimizing Output Through Clear Instructions  \r\n24:01 Chain-of-Thought (CoT) Prompting: Breaking Down Tasks to Improve Model Performance  \r\n25:37 Prompt Templates: Enabling Scalability and Personalized Applications  \r\n27:48 Comparison and Applications of Zero-Shot vs. Few-Shot Prompting  \r\n32:15 Chaining Complex Prompts: Optimizing Workflows and Simplifying Debugging  \r\n37:56 Methods for Evaluating Prompts: Human Rating and Using LLMs as Judges  \r\n41:20 Drawbacks of Fine-Tuning: High Data Requirements, Overfitting, and Cost  \r\n42:50 Advantages of Fine-Tuning: Suitable for Domains Requiring High Precision  \r\n44:51 Core Concepts of RAG and Its Role in Addressing LLM Limitations  \r\n47:41 How RAG Works: Embeddings, Vector Databases, Retrieval, and Prompt Integration  \r\n50:02 Advanced RAG Techniques, Such as Chunking and Hypothetical Document Embeddings (HyDE)  \r\n53:53 Agentic AI Workflows: Moving Toward Autonomous and Specialized Systems  \r\n57:59 Paradigm Shift in Software Engineering: From Deterministic to Probabilistic Thinking  \r\n1:03:51 Enterprise Workflow Case Study: Using Generative AI Agents to Optimize Credit Risk Memos  \r\n1:07:01 Core Components of Agents: Prompts, Context Management (Memory), and Tools (APIs)  \r\n1:10:17 Different Levels of Agent Autonomy: From Hard-Coded Steps to Autonomously Creating Tools  \r\n1:12:20 Model Context Protocol (MCP) vs. Traditional APIs and Its Advantages  \r\n1:17:40 Step-by-Step Execution Example: An Intelligent Travel Agent  \r\n1:19:13 Evaluating Agentic AI Performance: End-to-End, Component-Level, Objective, and Subjective Metrics  \r\n1:25:34 Case Study: Building and Evaluating an AI Agent for Customer Support  \r\n1:34:26 Multi-Agent Workflows: Benefits of Parallel Processing and Component Reuse  \r\n1:35:44 Case Study Discussion: Multi-Agent System Design for Smart Home Automation  \r\n1:43:17 Future Trends in AI: Plateau Period, Architecture Search, Multimodality, and Multi-Method Collaborative Learning",
+            "like_count": 7,
+            "published_at": "12/12/2025 13:58:40",
+            "replies": [
+                {
+                    "author": "@MtecK-x6s",
+                    "content": "awesome. this comment should be pinned",
+                    "like_count": 1,
+                    "published_at": "12/12/2025 22:11:24"
+                }
+            ]
+        },
+        {
+            "author": "@douggiephresh1985",
+            "content": "Stanford gives this away because the value isn't in the material learned. It's in the connections made and name on the resume.",
+            "like_count": 0,
+            "published_at": "12/12/2025 06:24:33",
+            "replies": []
+        },
+        {
+            "author": "@CodyMachody-t27",
+            "content": "Hello, thank you for sharing this valueable information. Is it possible to get access to the slides?",
+            "like_count": 0,
+            "published_at": "12/12/2025 05:26:58",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Hello. Thanks for watching! In the video description, we included a link to the course schedule and syllabus: https://cs230.stanford.edu/syllabus/. The syllabus has links to the slides.",
+                    "like_count": 0,
+                    "published_at": "12/12/2025 07:38:11"
+                }
+            ]
+        },
+        {
+            "author": "@cloojure",
+            "content": "Hi - I noticed the courses are in reverse order in the CS230 playlist.  Is possible to sort them in ascending order?  :)",
+            "like_count": 0,
+            "published_at": "11/12/2025 11:27:22",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for the suggestion. We have done that now.",
+                    "like_count": 1,
+                    "published_at": "12/12/2025 00:05:19"
+                }
+            ]
+        },
+        {
+            "author": "@angelachen641",
+            "content": "Thanks for making this up-to-date content available online! I look forward to more content on the production ready AI agent, the challenges and findings.",
+            "like_count": 2,
+            "published_at": "11/12/2025 06:15:23",
+            "replies": []
+        },
+        {
+            "author": "@nurmalso4599",
+            "content": "Tbh, He teachs good and cool",
+            "like_count": 0,
+            "published_at": "10/12/2025 04:59:43",
+            "replies": []
+        },
+        {
+            "author": "@esmael_yahya",
+            "content": "[00:18:00] بداية الحديث عن Prompt Engineering وتقنيات تحسين الأوامر.\r\n[00:32:00] شرح مفهوم Prompt Chaining (سلسلة الأوامر) ولماذا هو أفضل للتصحيح.\r\n[00:44:00] بداية شرح RAG وكيفية عمله مع قواعد البيانات المتجهة.\r\n[00:54:00] تعريف Agentic Workflows والفرق بينها وبين الوكيل التقليدي.\r\n[00:57:40] الحديث عن Paradigm Shift (التحول من الهندسة الحتمية إلى الضبابية).\r\n[01:12:00] شرح MCP (Model Context Protocol).\r\n[01:19:00] دراسة حالة حول كيفية تقييم (Eval) نظام دعم العملاء.\r\n[01:34:00] مناقشة الأنظمة متعددة الوكلاء (Multi-Agent) ومثال \"المنزل الذكي\".",
+            "like_count": 2,
+            "published_at": "09/12/2025 01:32:32",
+            "replies": [
+                {
+                    "author": "@MtecK-x6s",
+                    "content": "great, thanks for rime stamp",
+                    "like_count": 0,
+                    "published_at": "12/12/2025 22:10:46"
+                }
+            ]
+        },
+        {
+            "author": "@nikhil199029",
+            "content": "As Indian as it gets. Thanks though, useful",
+            "like_count": 0,
+            "published_at": "08/12/2025 21:29:03",
+            "replies": []
+        },
+        {
+            "author": "@LearnWithNirmalkumar",
+            "content": "thank you and appreciate your efforts and time which platform and you make here , its a knowledge for us to add in our memory . its like RAG for me.",
+            "like_count": 0,
+            "published_at": "08/12/2025 16:27:12",
+            "replies": []
+        },
+        {
+            "author": "@valeriilogvyn2185",
+            "content": "Thank you a lot for this brilliant lecture.",
+            "like_count": 0,
+            "published_at": "08/12/2025 04:24:38",
+            "replies": []
+        },
+        {
+            "author": "@aishwaryasharma5514",
+            "content": "thanks a ton for making lectures available online.kudos to well wishers",
+            "like_count": 1,
+            "published_at": "07/12/2025 23:38:54",
+            "replies": []
+        },
+        {
+            "author": "@SHAILESHKUMAR-pp1vh",
+            "content": "Good Content . Thanks for making it publicly available.",
+            "like_count": 0,
+            "published_at": "07/12/2025 22:10:44",
+            "replies": []
+        },
+        {
+            "author": "@vivekashodha",
+            "content": "Lecture 7: Agents, Prompts, and RAG is the lecture i needed to understand the whole bunch of topics around AI. I was impressed how the instructor explained all the concepts so clearly and how engaging he kept the class. incredible already shared with a bunch of folks. Thank you  Thank you thank you",
+            "like_count": 7,
+            "published_at": "07/12/2025 19:09:53",
+            "replies": []
+        },
+        {
+            "author": "@bahlVivek",
+            "content": "Hi, Thanks for sharing this amazing session. Can we create a MCP for handling tasks that are more deterministic and may be it can help our Agents handles workflows better.",
+            "like_count": 0,
+            "published_at": "07/12/2025 08:54:12",
+            "replies": []
+        },
+        {
+            "author": "@ashishtrivedi6426",
+            "content": "Perhaps the best crisps theory",
+            "like_count": 0,
+            "published_at": "07/12/2025 03:43:02",
+            "replies": []
+        },
+        {
+            "author": "@sumant2000",
+            "content": "my god. why that red orange background. painful to eyes.",
+            "like_count": 0,
+            "published_at": "07/12/2025 00:09:39",
+            "replies": []
+        },
+        {
+            "author": "@Rajveervikasshoorveer",
+            "content": "Thank you for making it available online, its amazingly informative session and method of delivery and interaction with students was awesome!!",
+            "like_count": 4,
+            "published_at": "06/12/2025 20:44:05",
+            "replies": []
+        },
+        {
+            "author": "@Kintor-AFP",
+            "content": "Red on red, weird colour choice for the powerpoint.",
+            "like_count": 1,
+            "published_at": "06/12/2025 10:59:48",
+            "replies": []
+        },
+        {
+            "author": "@reedschrichte800",
+            "content": "System prompt is available now 🙂 but isn't it going to burn tokens and eat into context window?",
+            "like_count": 0,
+            "published_at": "05/12/2025 20:54:48",
+            "replies": []
+        },
+        {
+            "author": "@KogilaSharath",
+            "content": "Very good lecture touching all fundamental concepts",
+            "like_count": 0,
+            "published_at": "05/12/2025 14:52:55",
+            "replies": []
+        },
+        {
+            "author": "@WingsOfPeaceToronto",
+            "content": "I think A2A protocol is for agent to agent communication - MCP is for agent to system/tool/platform interaction  (so say an agent needs access to Salesforce -  agent will do so via SalesForce MCP server)",
+            "like_count": 2,
+            "published_at": "05/12/2025 10:53:44",
+            "replies": []
+        },
+        {
+            "author": "@Bladegame_9",
+            "content": "Best takeaway: ReAct prompting + tool-use improves agent performance by 30–40% on WebShop and ALFWorld benchmarks. The live demos made everything crystal clear.",
+            "like_count": 0,
+            "published_at": "05/12/2025 09:41:55",
+            "replies": []
+        },
+        {
+            "author": "@kiase978",
+            "content": "This lecture should have been the introductory lecture for the course. It's literally an (amazing) overview of the entire agentic AI knowledge a developer would need today.",
+            "like_count": 13,
+            "published_at": "05/12/2025 08:52:54",
+            "replies": [
+                {
+                    "author": "@Mindfulnessdiaries",
+                    "content": "Agreed 😅",
+                    "like_count": 1,
+                    "published_at": "06/12/2025 01:10:41"
+                }
+            ]
+        },
+        {
+            "author": "@coopersnyder4675",
+            "content": "Now context length is 10x",
+            "like_count": 0,
+            "published_at": "05/12/2025 08:44:00",
+            "replies": []
+        },
+        {
+            "author": "@neacutarica",
+            "content": "O.M.G. Spread the word: never mention or cite McKinsey, it is The  most notoriously detached from reality agency, thriving out of unbelievably huge consulting contracts worth billions with largest corporations, to publish reports with what they think might be shocking enough to seem worth the extracted billions, but in the end making those corporations to disrupt their own employees, instead of competition -b.t.w. \"disruption\" is an effect, not a cause, and chasing an effect will depart you from ever achieving it. Instead, it just brings all the drama inside the house. McKinsey's conclusions are always most imaginative justifications for restructuring or resource actions in the name of some trendy experiment, which smaller companies abandon immediately. McKinsey knows very well that shortly after, the company will look more profitable. \n In the given example with the credit analyst did it ever cross your mind that it could take actually 10 steps x 1 minute = 10 minutes + 10 minutes for filling the gaps in a prefilled template for the memo? In total 20 minutes of effective work, and not two weeks, but there are lags between steps for processing external checks which are future legality provisions, allowing the RM in the meantime to processes in parallel other couple hundreds of credit applications in these 2 weeks? What proof do you need more for how detached from reality is McKinsey, when it 'approximates\" 20 minutes to 2 weeks?\nSmall firms can fail fast and course correct even faster, bad news spread like fire. If a large corporation announced the adoption it takes 4 years to do it. Smaller companies already abandoned the trend 4 years ago, and in the meantime found their own path which usually combines what they did well before the trend with something else which doesn't even have a name yet. Of course in the very short term, these resource actions will make the large business look more profitable than before, only to fail miserably a couple of months later, and we all know why: even if best people leave first when drama is brought into the house, as it's incompatible with steady creation, learning and growth, businesses seem to continue working as usual for a while, out of inertia or large mass momentum, only to start showing huge cracks a couple of months later, and corporations desperately seeking buyers for entire departments which were working well before the \"optimizations\", just not the best, or not \"disruptive\" enough.",
+            "like_count": 0,
+            "published_at": "05/12/2025 06:12:40",
+            "replies": []
+        },
+        {
+            "author": "@known_fellow5916",
+            "content": "Best viewed at 1.25X speed.",
+            "like_count": 0,
+            "published_at": "04/12/2025 19:52:59",
+            "replies": []
+        },
+        {
+            "author": "",
+            "content": "where can i download slides?",
+            "like_count": 0,
+            "published_at": "04/12/2025 17:43:46",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching. In the video description, we included a link to the syllabus (https://cs230.stanford.edu/syllabus/), which contains links to the slides.",
+                    "like_count": 0,
+                    "published_at": "05/12/2025 00:49:22"
+                }
+            ]
+        },
+        {
+            "author": "@Aditya022-ch",
+            "content": "Good lecture!!",
+            "like_count": 1,
+            "published_at": "04/12/2025 17:20:19",
+            "replies": []
+        },
+        {
+            "author": "@superacoon",
+            "content": "Messi when off field!",
+            "like_count": 61,
+            "published_at": "04/12/2025 15:31:15",
+            "replies": [
+                {
+                    "author": "@mr.anfieldfootball",
+                    "content": "Seriously, soooooooooouuuuiii",
+                    "like_count": 2,
+                    "published_at": "07/12/2025 18:51:48"
+                },
+                {
+                    "author": "@SergeIvanov-x4e",
+                    "content": "Are stupid comnents necessary?",
+                    "like_count": 0,
+                    "published_at": "17/12/2025 04:15:46"
+                }
+            ]
+        },
+        {
+            "author": "@seyiboy24",
+            "content": "Thank you for this lecture, it is a fantastic lecture as I am learning a lot from it. One question I do have is whether creating a chain of complex prompts is better than using the Chain of Thought? I understand that breaking the complex prompt into steps of prompts is easier for debugging, but which one is better? Also, I have watched all the lectures so far on Stanford CS230 - Autumn 2025, and it is amazing and useful to have a general, updated, and professional study of Deeping Learning as it is the beginning and a great starting point as a new PhD student. But I am hoping Lectures 8, 9, and 10 will be released.",
+            "like_count": 0,
+            "published_at": "04/12/2025 02:28:30",
+            "replies": []
+        },
+        {
+            "author": "@asishjoshi5774",
+            "content": "❤",
+            "like_count": 0,
+            "published_at": "03/12/2025 23:22:49",
+            "replies": []
+        },
+        {
+            "author": "@larryczerwonka5125",
+            "content": "28:23  looking at this prompt using Grok you get:\nClassification: Negative\nReasoning:\n\n\"The product is fine\" is mildly positive/neutral acknowledgment.\n\"but I was expecting more\" directly expresses disappointment and unmet expectations, which overrides the mild positivity and introduces a clear negative sentiment.\n\nOverall, the sentence conveys dissatisfaction despite a basic level of acceptability, making the tone Negative.\n\nBut if your use a protocol, not prompt engineering, you get this:\n\nThe sentence \"The product is fine, but i was expecting more\" has a Neutral tone at its core, but it leans slightly negative because of the disappointment implied in the second part—it's accepting but not enthusiastic, with the \"but\" introducing a sense of unmet expectations that softens any mild positivity from \"fine.\" Conventionally, this would be seen as mildly negative in sentiment analysis, like in customer reviews where expectation gaps signal dissatisfaction. Considering alternative views, such as cultural contexts where \"fine\" might mask stronger negativity or just be polite neutrality, it could also be interpreted as neutral acceptance with room for improvement. Overall confidence in this classification: 85%.",
+            "like_count": 0,
+            "published_at": "03/12/2025 14:01:58",
+            "replies": []
+        },
+        {
+            "author": "@idoiatube",
+            "content": "Security control agent, lock unlock doors and windows, lighting and call police. Inside mode. Outside mode. On Holiday. Emergency alarm mode.\r\nComfort control agent, temperature, locks, lighting, music. Welcome mode. Weekend breakfast mode. Romantic dinner mode. Party mode. Birthday mode...... Can you please subtitle when the students ask a qustion.",
+            "like_count": 0,
+            "published_at": "03/12/2025 04:32:52",
+            "replies": []
+        },
+        {
+            "author": "@cikliks",
+            "content": "A lot of the topics discussed in the first 25 minutes seems to be stuff that are from 2024 or even prior. He gives model examples like o3 or 4o. He also talks about chain of thought being in research phase which is currently way beyond intiial research phase where most companies have implemented it live for the past 2 versions of their models. Same with token sizes. said 100k max, now we have many that have 300k+ and some that are 1m+ tokens. \n\nI feel like there are still a lot of things to take from the course but it seems like the information seems to be stale and some or outright just not necessary anymore",
+            "like_count": 1,
+            "published_at": "02/12/2025 23:18:46",
+            "replies": []
+        },
+        {
+            "author": "@ajitnandakumar",
+            "content": "Fantastic lecture. What I like about the speaker is that he makes it less intimidating",
+            "like_count": 2,
+            "published_at": "02/12/2025 22:16:58",
+            "replies": []
+        },
+        {
+            "author": "@livelifelarge-f1s",
+            "content": "The only good lecture on modern AI that I have heard in looong time.",
+            "like_count": 15,
+            "published_at": "02/12/2025 20:03:47",
+            "replies": []
+        },
+        {
+            "author": "@jodisalazar119",
+            "content": "thank you!!",
+            "like_count": 0,
+            "published_at": "02/12/2025 19:03:42",
+            "replies": []
+        },
+        {
+            "author": "@WalidAmamou-z8r",
+            "content": "The slack fine-tuning example is misguided. It proves the opposite: fine-tunig worked too well mimicking employees behavior. The trainig data was not about writing blogs.\n\nThis shows lack of understanding of how fine-tunig works. Pretty surprising coming from Stanford.",
+            "like_count": 2,
+            "published_at": "02/12/2025 06:24:12",
+            "replies": [
+                {
+                    "author": "@sousoux",
+                    "content": "Well he said there was a possibility over over fitting. His anti case was more a problem of wrong fitting.",
+                    "like_count": 0,
+                    "published_at": "14/12/2025 23:57:07"
+                }
+            ]
+        },
+        {
+            "author": "@JetLee1544",
+            "content": "Amazing thank you. Crazy also how far open source models have come",
+            "like_count": 1,
+            "published_at": "02/12/2025 05:35:09",
+            "replies": []
+        },
+        {
+            "author": "@Matfonseca",
+            "content": "Excellent !!",
+            "like_count": 0,
+            "published_at": "02/12/2025 01:04:22",
+            "replies": []
+        },
+        {
+            "author": "@joaquingale",
+            "content": "Is the slide really red?",
+            "like_count": 1,
+            "published_at": "01/12/2025 21:50:34",
+            "replies": [
+                {
+                    "author": "@WuAndy-xt6rw",
+                    "content": "weird😅",
+                    "like_count": 0,
+                    "published_at": "02/12/2025 18:51:18"
+                }
+            ]
+        },
+        {
+            "author": "@zapy422",
+            "content": "it's seems like you are teaching some machines (voices I am hearing)",
+            "like_count": 0,
+            "published_at": "01/12/2025 21:26:54",
+            "replies": []
+        },
+        {
+            "author": "@borisbrot1829",
+            "content": "23:00 rewrite my promt. use actual best promting practice. ask, if you not sure, ask. give me always some answers a,b,c.d ??",
+            "like_count": 0,
+            "published_at": "01/12/2025 15:13:39",
+            "replies": []
+        },
+        {
+            "author": "@Abby-kp7yg",
+            "content": "the audio sucks",
+            "like_count": 0,
+            "published_at": "01/12/2025 04:13:06",
+            "replies": []
+        },
+        {
+            "author": "@narenallam",
+            "content": "Very Practical and Productive Time I spent on this",
+            "like_count": 6,
+            "published_at": "30/11/2025 15:43:48",
+            "replies": []
+        },
+        {
+            "author": "@v-4-vendetta",
+            "content": "Is there a playlist for this course? Thanks.",
+            "like_count": 1,
+            "published_at": "30/11/2025 14:33:33",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching. Here is the link to the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X",
+                    "like_count": 1,
+                    "published_at": "02/12/2025 00:13:22"
+                }
+            ]
+        },
+        {
+            "author": "@gnsdgabriel",
+            "content": "Audio clipped",
+            "like_count": 0,
+            "published_at": "30/11/2025 03:42:46",
+            "replies": []
+        },
+        {
+            "author": "@ProBloggerWorld",
+            "content": "I wasn’t quite satisfied with the content especially how topics were explained. Too many “might be” and “could be” and few visual analogies to create insights.\n\nIn the beginning the tutor was talking about evals - yet at no time did the guy feature any (!) comparison nor evaluation metric in his comparisons. “Will be better”, “could be better” using agents to save time yet no real life example provided, only abstract hypothesis. \n\nAt 1:13:42 I got tuned out because the example with MCP was absolutely weird. MCP itself is a security and token bloating nightmare, not thinking about contractual obligations.\n\nAlso factual: what if MCP gets substituted? At one time you have to get to the bottom line and be as specific as possible. And what makes a model “reasoning of the abstract concept of search flights” is not two different APIs.\n\nIn fact we see two concrete implementations.\n\nThis is the learning process itself to confront a Modell with as many implementations as possible - I think it is called learning, while the MCP example simply abstracts implementation away.\n\nSo the guy lacks basic engineering capabilities. It is pretty normal for an engineering to write mediators etc.\n\nI need a model that helps me with the grunt work not the easy going.\n\nA model that can “reasoning about the abstract concept of a flight” is worthless if it goes out of order due to a few API changes.\n\nIn fact this is daily business.\n\nOr to put it shortly: the guy proposes a dumb agent who can compose the simple MCP API while not seeing the opportunity for an agent to come up with an abstraction to build a wrapper API for other APIs.\n\nThis is not good. The guy needs to be clear in his intentions.\n\nWhy have a red background for the - by him - as favorable perceived MCP model and color it red? It looks like a warning not a recommendation at all. (1:13:00 still)\n\nI was disappointed and missed energy and spirit. The guy seemed depressed to me. Hyping agents while talking about change of workflows in the range of 5-10 years - be specific and also consider this a business opportunity.",
+            "like_count": 1,
+            "published_at": "29/11/2025 14:14:32",
+            "replies": []
+        },
+        {
+            "author": "@Mudassar_Ch22",
+            "content": "thanks for these free lectures please made a lectures on quantum computing and quantum machine learning",
+            "like_count": 2,
+            "published_at": "29/11/2025 02:29:06",
+            "replies": [
+                {
+                    "author": "@thanyearl",
+                    "content": "I support this",
+                    "like_count": 0,
+                    "published_at": "01/12/2025 02:42:54"
+                }
+            ]
+        },
+        {
+            "author": "@_mark_3814",
+            "content": "The lecture is not about RL?",
+            "like_count": 0,
+            "published_at": "25/11/2025 13:54:03",
+            "replies": []
+        },
+        {
+            "author": "@at-st-driver",
+            "content": "awesome teacher",
+            "like_count": 3,
+            "published_at": "23/11/2025 13:52:31",
+            "replies": []
+        },
+        {
+            "author": "@usmanwaris3147",
+            "content": "Thankyou sir and stanford for uploading such a unique and precious contant and it is really helpful for us .",
+            "like_count": 7,
+            "published_at": "23/11/2025 10:20:44",
+            "replies": []
+        },
+        {
+            "author": "@computingturkey",
+            "content": "@stanfordonline A few weeks ago, I saw in Kian Katanforoosh’s LinkedIn post that Lesson 7 would cover RAG, Prompt Engineering, and Agent Workflows. However, the lecture published by Stanford University is titled Lecture 8: Reinforcement Learning. It seems there was an error either in the lesson title or in the lecture sequence. In fact, the title should be updated to Lecture 7: Prompt Engineering, RAG, Agent Workflows.",
+            "like_count": 1,
+            "published_at": "23/11/2025 03:47:54",
+            "replies": []
+        },
+        {
+            "author": "@andrewreiland",
+            "content": "1:04:11 “Enterprise workflows are likely to change to rely more on agentic AI workflows”.\n\nNo - unless there’s complete traceability and audit-ability with these agents - they’ll never be truly adopted by enterprises in sensitive domains.",
+            "like_count": 4,
+            "published_at": "22/11/2025 20:38:05",
+            "replies": []
+        },
+        {
+            "author": "@tariqjamal8387",
+            "content": "Kindly upload lecture 7 as well",
+            "like_count": 6,
+            "published_at": "22/11/2025 13:21:35",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching. Please note there was no class for Lecture 7 on November 4, 2025. Please follow along with the course schedule and syllabus: https://cs230.stanford.edu/syllabus/",
+                    "like_count": 4,
+                    "published_at": "25/11/2025 00:36:27"
+                }
+            ]
+        },
+        {
+            "author": "@computingturkey",
+            "content": "Lecture 7 ??? Agents, Prompt, RAG ??",
+            "like_count": 2,
+            "published_at": "22/11/2025 11:59:42",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching. Please note there was no class for Lecture 7 on November 4, 2025. Please follow along with the course schedule and syllabus: https://cs230.stanford.edu/syllabus/",
+                    "like_count": 3,
+                    "published_at": "25/11/2025 00:37:24"
+                }
+            ]
+        },
+        {
+            "author": "@richardhack5202",
+            "content": "Just noticed that myself after spending ten minutes searching for it.",
+            "like_count": 1,
+            "published_at": "22/11/2025 10:18:46",
+            "replies": []
+        },
+        {
+            "author": "@hasinabrar3263",
+            "content": "Lecture 7 is missing 😢",
+            "like_count": 5,
+            "published_at": "22/11/2025 10:14:39",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching. Please note there was no class for Lecture 7 on November 4, 2025. Please follow along with the course schedule and syllabus: https://cs230.stanford.edu/syllabus/",
+                    "like_count": 4,
+                    "published_at": "25/11/2025 00:37:05"
+                }
+            ]
+        },
+        {
+            "author": "@WayneL436",
+            "content": "And I think the video is not about RL(as the title listed). I guess it a accident or?",
+            "like_count": 0,
+            "published_at": "22/11/2025 09:13:21",
+            "replies": []
+        },
+        {
+            "author": "@WayneL436",
+            "content": "@standford the lecture 7 is missing",
+            "like_count": 13,
+            "published_at": "22/11/2025 09:11:46",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching. Please note there was no class for Lecture 7 on November 4, 2025. Please follow along with the course schedule and syllabus: https://cs230.stanford.edu/syllabus/",
+                    "like_count": 11,
+                    "published_at": "25/11/2025 00:36:35"
+                },
+                {
+                    "author": "@journeyofaiengineer",
+                    "content": "​@stanfordonline thankyou",
+                    "like_count": 2,
+                    "published_at": "26/11/2025 04:18:09"
+                },
+                {
+                    "author": "@JulianMayaC",
+                    "content": "This can be what you are searching for\nhttps://cs230.stanford.edu/syllabus/fall_2025/7/lecture_7.pdf",
+                    "like_count": 0,
+                    "published_at": "03/12/2025 00:11:21"
+                }
+            ]
+        },
+        {
+            "author": "@gerardo9057",
+            "content": "Hi everyone, I can’t find Lecture 7. Is it a numbering mistake, or has it just not been posted on YouTube?",
+            "like_count": 3,
+            "published_at": "22/11/2025 08:44:25",
+            "replies": [
+                {
+                    "author": "@WayneL436",
+                    "content": "Me too. The Lecture is missing 😢😢😢",
+                    "like_count": 0,
+                    "published_at": "22/11/2025 09:11:28"
+                },
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching. Please note there was no class for Lecture 7 on November 4, 2025. Please follow along with the course schedule and syllabus: https://cs230.stanford.edu/syllabus/",
+                    "like_count": 2,
+                    "published_at": "25/11/2025 00:37:40"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "title": "Stanford CS230 | Autumn 2025 | Lecture 5: Deep Reinforcement Learning",
+    "published_at": "01/11/2025 03:59:49",
+    "view_count": 19460,
+    "like_count": 383,
+    "favorite_count": 0,
+    "comment_count": 13,
+    "url": "https://www.youtube.com/watch?v=4E27qlfYw0A",
+    "description": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nOctober 21, 2025\nThis lecture covers deep reinforcement learning.\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs230-deep-learning\n\nTo follow along with the course schedule and syllabus, visit: https://cs230.stanford.edu/syllabus/\n\nMore lectures will be published regularly.\nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X\n\nAndrew Ng\nFounder of DeepLearning.AI\nAdjunct Professor, Stanford University’s Computer Science Department\n\nKian Katanforoosh\nCEO and Founder of Workera\nAdjunct Lecturer, Stanford University’s Computer Science Department",
+    "collected_at": "18/12/2025 14:40:38",
+    "comments": [
+        {
+            "author": "@WuAndy-xt6rw",
+            "content": "audio quality😅",
+            "like_count": 0,
+            "published_at": "24/11/2025 11:19:48",
+            "replies": []
+        },
+        {
+            "author": "@SphereofTime",
+            "content": "4:52",
+            "like_count": 0,
+            "published_at": "15/11/2025 01:06:19",
+            "replies": []
+        },
+        {
+            "author": "@barbarakilpatrick3859",
+            "content": "Nvidia is coming soon 94402 thank you.😷❤️",
+            "like_count": 1,
+            "published_at": "07/11/2025 04:51:39",
+            "replies": []
+        },
+        {
+            "author": "@SimpleDataScience",
+            "content": "Enjoyed!",
+            "like_count": 0,
+            "published_at": "04/11/2025 01:40:13",
+            "replies": []
+        },
+        {
+            "author": "@AlejandroChen-yf3po",
+            "content": "very good lecture, but the typical GO board is 19*19, not 13*13",
+            "like_count": 1,
+            "published_at": "02/11/2025 09:03:03",
+            "replies": []
+        },
+        {
+            "author": "@robertwang7785",
+            "content": "Whose picture on the cover? Not YuJa Wang for sure!",
+            "like_count": 0,
+            "published_at": "01/11/2025 20:37:56",
+            "replies": []
+        },
+        {
+            "author": "@ejenkins1203",
+            "content": "How is this related to Holland's Bucket Brigade algorithm?",
+            "like_count": 0,
+            "published_at": "01/11/2025 05:01:32",
+            "replies": []
+        },
+        {
+            "author": "@spiderLeo0",
+            "content": "Thank you so much! Continue to refresh it for a while! It’s really a fantastic feast!",
+            "like_count": 2,
+            "published_at": "01/11/2025 04:54:39",
+            "replies": []
+        },
+        {
+            "author": "@S2Xbit",
+            "content": "god bless stanford",
+            "like_count": 8,
+            "published_at": "01/11/2025 04:49:48",
+            "replies": []
+        },
+        {
+            "author": "@patriot-q3u",
+            "content": "timestamps\n\n0:05 Intro – Stanford CS230 Lecture 5 overview\n0:44 Deep Reinforcement Learning intro & motivation\n2:00 RLHF preview – bridge from GPT-2 to ChatGPT\n2:35 Rise of RL – Atari, DeepMind, AlphaGo, AlphaStar\n5:00 Why RL beats human performance\n5:16 Supervised learning approach to Go (limitations)\n8:10 Why supervised learning fails for strategy games\n10:30 Intro to Reinforcement Learning (sequences of decisions)\n11:07 Teaching by experience vs by example\n11:37 Real-world RL applications (gaming, robotics, ads)\n14:01 RL vocabulary – agent, environment, states, rewards\n17:53 Example: “Recycling is Good” toy environment\n21:00 Discount factor intuition (value of time)\n23:30 Compute optimal policy (γ = 1 and 0.9 example)\n31:05 Bellman Optimality Equation explained\n33:02 Policy definition & argmax of Q*\n34:10 Limits of Q-tables → need Deep Q-Learning\n35:35 Deep Q-Network replaces Q-table\n37:13 Training challenge – no explicit labels\n40:16 Using Bellman equation to define the target Y\n42:00 Two forward passes for target estimation\n45:30 Q-learning training loop intuition\n51:22 Pseudocode: vanilla Deep Q-Learning\n53:03 Key takeaway: network learns from its own estimates\n53:32 Breakout example – applying DQN to Atari\n55:05 Defining inputs/outputs for DQN\n56:33 Pre-processing: cropping, grayscale, frame history\n59:02 Adding temporal info (velocity / 4 frames)\n1:00:39 CNN architecture for DQN\n1:01:06 Training refinements – preprocessing, terminal state\n1:03:23 Experience Replay explained\n1:06:07 Replay memory improves sample efficiency\n1:08:15 Full training loop with replay buffer\n1:10:20 Exploration vs Exploitation (ε-greedy)\n1:12:00 Example: agent stuck in local minima\n1:13:07 Exploration analogy – “take another route through campus”\n1:16:11 ε-greedy action policy\n1:16:24 Final DQN algorithm summary\n1:17:40 Atari agent learned optimal tunnel strategy\n1:18:42 Evaluating trained agents (loss vs self-play)\n1:20:18 DQN generalizes to multiple Atari games\n1:20:24 Hard environments – Montezuma’s Revenge\n1:21:03 Sparse rewards and human intuition\n1:22:25 Imitation learning and intuition transfer\n1:23:04 Intro to RLHF (Reinforcement Learning from Human Feedback)\n1:24:00 Other RL algorithms – PPO, TRPO, DPO\n1:26:15 PPO in continuous control tasks\n1:27:01 Competitive self-play (sumo agents)\n1:28:24 Multi-agent RL: Dota 2 & StarCraft II\n1:28:59 AlphaGo documentary & emergent strategies\n1:30:18 RLHF section begins – overview\n1:31:01 Language model training recap (next-token prediction)\n1:32:20 Why pre-training ≠ helpfulness\n1:33:51 Supervised fine-tuning (SFT)\n1:35:57 Limitations of SFT (small dataset & imitation)\n1:36:55 Training a Reward Model from human preferences\n1:37:53 Collecting pairwise preference data\n1:39:05 Reward head replaces softmax\n1:40:12 Reward model learns to predict human preferences\n1:41:11 How RLHF uses the reward model as a critic\n1:41:53 Mapping RLHF to standard RL terminology\n1:43:04 Episodes = prompt completions\n1:44:06 Sparse, episodic reward structure in LLMs\n1:44:22 Karpathy video plug – limits of RL",
+            "like_count": 11,
+            "published_at": "01/11/2025 04:30:51",
+            "replies": [
+                {
+                    "author": "@journeyofaiengineer",
+                    "content": "Thankyou so much for the timeline",
+                    "like_count": 1,
+                    "published_at": "01/11/2025 04:36:07"
+                }
+            ]
+        },
+        {
+            "author": "@cissyyuan8538",
+            "content": "Thanks for the great lesson! Is there a way to summarize all the method/algorithms that bots learn from human?  Bots can \"observe\" human without explicit interaction as well.",
+            "like_count": 1,
+            "published_at": "01/11/2025 04:14:26",
+            "replies": []
+        },
+        {
+            "author": "@shifatasr5761",
+            "content": "Okay",
+            "like_count": 0,
+            "published_at": "01/11/2025 04:05:02",
+            "replies": []
+        }
+    ]
+}
