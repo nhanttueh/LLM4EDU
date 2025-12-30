@@ -1,0 +1,81 @@
+﻿id,type,questionvi,questioneng
+0,Entity ,Những khái niệm deep learning nào được nhắc đến nhiều trong phần bình luận?,Which deep learning concepts are most frequently mentioned in the comments?
+1,Entity ,Các thuật toán hoặc mô hình nào thường được người xem đề cập?,Which algorithms or models are commonly mentioned by viewers?
+2,Entity ,"Những tài nguyên học tập bên ngoài (sách, bài viết, khóa học) nào được nhắc đến?","Which external learning resources (e.g., books, articles, courses) are mentioned in the comments?"
+3,Entity ,"Có những giảng viên, nhà nghiên cứu hoặc tác giả nào được người xem nhắc tên không?","Are there any instructors, researchers, or authors mentioned by viewers?"
+4,Entity ,"Người xem thường nhắc đến framework hoặc thư viện nào (ví dụ: TensorFlow, PyTorch)?","Which frameworks or libraries (e.g., TensorFlow, PyTorch) are frequently mentioned by viewers?"
+5,Entity ,"Những chủ đề toán học nền tảng nào (ví dụ: linear algebra, probability) xuất hiện trong bình luận?","Which foundational mathematical topics (e.g., linear algebra, probability) appear in the comments?"
+6,Entity ,Có những bài giảng hoặc video cụ thể trong playlist được nhắc lại nhiều không?,Are there specific lectures or videos in the playlist that are frequently referenced?
+7,Entity ,"Người xem nhắc đến những bài tập, assignment hoặc project nào?","Which assignments, exercises, or projects are mentioned by viewers?"
+8,Entity ,Những thuật ngữ kỹ thuật nào được người học cho là quan trọng trong video?,Which technical terms are considered important by learners in the video?
+9,Entity ,Có những câu hỏi khái niệm cốt lõi nào được lặp lại trong các bình luận?,Are there recurring core conceptual questions in the comments?
+10,Frequency,Khái niệm nào được nhắc đến thường xuyên nhất trong các bình luận?,Which concepts are mentioned most frequently in the comments?
+11,Frequency,Backpropagation được nhắc đến bao nhiêu lần so với các khái niệm khác?,How often is backpropagation mentioned compared to other concepts?
+12,Frequency,Các bình luận về bài tập (assignments) xuất hiện nhiều hay ít hơn bình luận về lý thuyết?,Do comments about assignments appear more or less frequently than comments about theory?
+13,Frequency,Những framework deep learning nào được nhắc đến nhiều nhất?,Which deep learning frameworks are mentioned most frequently?
+14,Frequency,Người xem nhắc đến độ khó của môn học thường xuyên đến mức nào?,How frequently do viewers mention the difficulty of the course?
+15,Frequency,Có bao nhiêu bình luận đề cập đến việc ôn thi hoặc kiểm tra?,How many comments refer to exam or test preparation?
+16,Frequency,Các câu hỏi về toán học nền tảng xuất hiện nhiều hay ít hơn câu hỏi về mô hình?,Do questions about foundational mathematics appear more or less frequently than questions about models?
+17,Frequency,Bình luận tích cực xuất hiện thường xuyên hơn hay ít hơn bình luận tiêu cực?,Do positive comments appear more frequently than negative comments?
+18,Frequency,Những video nào trong playlist nhận được nhiều bình luận nhất?,Which videos in the playlist receive the highest number of comments?
+19,Frequency,Các bình luận yêu cầu giải thích thêm hoặc ví dụ bổ sung xuất hiện với tần suất như thế nào?,How frequently do comments request additional explanations or examples?
+20,Sentiment ,Cảm xúc chung của người xem đối với bài giảng này là gì?,What is the overall sentiment of viewers toward this lecture?
+21,Sentiment ,Người học có thái độ tích cực hay tiêu cực đối với độ khó của nội dung?,Do learners have a positive or negative attitude toward the difficulty of the content?
+22,Sentiment ,Các bình luận thể hiện sự hứng thú với deep learning chiếm ưu thế không?,Do comments expressing enthusiasm for deep learning dominate the discussion?
+23,Sentiment ,Người xem đánh giá thế nào về cách giảng dạy của khóa học?,How do viewers evaluate the teaching style of the course?
+24,Sentiment ,Có nhiều bình luận thể hiện sự thất vọng hoặc bối rối không?,Are there many comments expressing frustration or confusion?
+25,Sentiment ,Thái độ của người xem đối với bài tập và assignments là tích cực hay tiêu cực?,Is viewers’ attitude toward assignments positive or negative?
+26,Sentiment ,Người học có cảm thấy video dễ theo dõi hay không?,Do learners find the video easy to follow?
+27,Sentiment ,Có sự khác biệt cảm xúc giữa người mới học và người đã có nền tảng không?,Is there a difference in sentiment between beginners and learners with prior background?
+28,Sentiment ,Các bình luận có cho thấy động lực học tập tăng lên sau khi xem video không?,Do the comments indicate increased learning motivation after watching the video?
+29,Sentiment ,"Tổng thể, người xem có khuyến nghị khóa học này cho người khác không?","Overall, do viewers recommend this course to others?"
+30,Topic ,Những chủ đề học thuật chính nào được thảo luận trong phần bình luận?,What are the main academic topics discussed in the comments?
+31,Topic ,Người xem tập trung thảo luận nhiều nhất vào phần nội dung nào của bài giảng?,Which parts of the lecture do viewers focus on the most in their discussions?
+32,Topic ,Có những chủ đề phụ nào nổi bật trong các bình luận không?,Are there any notable secondary topics emerging in the comments?
+33,Topic ,"Các bình luận chủ yếu xoay quanh lý thuyết, ví dụ hay ứng dụng thực tế?","Do the comments mainly focus on theory, examples, or practical applications?"
+34,Topic ,Những vấn đề nào người học cho là khó hiểu nhất?,Which issues do learners find the most difficult to understand?
+35,Topic ,Có chủ đề nào được xem là quan trọng nhưng chưa được giải thích rõ không?,Are there any topics considered important but not sufficiently explained?
+36,Topic ,Người xem thảo luận nhiều hơn về mô hình deep learning hay toán học nền tảng?,Do viewers discuss deep learning models more than foundational mathematics?
+37,Topic ,Các bình luận có đề cập đến ứng dụng thực tế của deep learning không?,Do the comments mention real-world applications of deep learning?
+38,Topic ,Những nội dung nào người học muốn được giải thích chi tiết hơn trong các video sau?,Which topics do learners want to be explained in more detail in future videos?
+39,Topic ,"Tổng hợp lại, trọng tâm thảo luận chính của người xem là gì?","Overall, what is the main focus of viewers’ discussions?"
+40,Difficulty ,Những phần nào của bài giảng được người xem cho là khó hiểu nhất?,Which parts of the lecture are considered the most difficult to understand by viewers?
+41,Difficulty ,Người học thường gặp khó khăn với khái niệm hay bước nào trong nội dung?,Which concepts or steps do learners most commonly struggle with?
+42,Difficulty ,Các bình luận có cho thấy backpropagation là phần gây khó khăn không?,Do the comments indicate that backpropagation is a particularly challenging topic?
+43,Difficulty ,Người xem cảm nhận mức độ khó tổng thể của bài giảng như thế nào?,How do viewers perceive the overall difficulty of the lecture?
+44,Difficulty ,Có sự khác biệt nào về độ khó được cảm nhận giữa lý thuyết và ví dụ minh họa không?,Is there a perceived difference in difficulty between theoretical content and illustrative examples?
+45,Difficulty ,Những phần nào người học cho rằng cần được giải thích chậm hơn hoặc chi tiết hơn?,Which parts do learners feel require slower or more detailed explanations?
+46,Difficulty ,Có nhiều bình luận thể hiện sự bối rối về toán học nền tảng không?,Are there many comments expressing confusion about foundational mathematics?
+47,Difficulty ,Người học mới có gặp khó khăn hơn so với người đã có nền tảng không?,Do beginners experience more difficulty than learners with prior background?
+48,Difficulty ,"Những khái niệm nào thường được nhắc đến kèm theo các từ như “confusing”, “hard”, hoặc “difficult”?","Which concepts are frequently mentioned alongside terms such as “confusing,” “hard,” or “difficult”?"
+49,Difficulty ,"Tổng hợp lại, đâu là rào cản học tập chính mà người xem gặp phải?","Overall, what are the main learning barriers faced by viewers?"
+50,Reasoning ,"Dựa trên các bình luận, điểm mạnh lớn nhất của bài giảng này là gì?","Based on the comments, what is the greatest strength of this lecture?"
+51,Reasoning ,Những yếu tố nào được người xem cho là giúp họ hiểu bài tốt hơn?,Which factors do viewers believe help them understand the material better?
+52,Reasoning ,Vì sao nhiều người học đánh giá cao (hoặc không đánh giá cao) bài giảng này?,Why do many learners rate this lecture highly (or poorly)?
+53,Reasoning ,Có mối liên hệ nào giữa độ khó cảm nhận và thái độ của người học không?,Is there a relationship between perceived difficulty and learners’ attitudes?
+54,Reasoning ,"Dựa trên bình luận, bài giảng này phù hợp hơn với người mới hay người đã có nền tảng?","Based on the comments, is this lecture more suitable for beginners or learners with prior background?"
+55,Reasoning ,Những yếu tố nào trong bài giảng góp phần tăng động lực học tập?,Which aspects of the lecture contribute to increased learning motivation?
+56,Reasoning ,Có thể rút ra nhận định chung nào về hiệu quả giảng dạy của khóa học không?,Can an overall assessment of the teaching effectiveness of the course be derived?
+57,Reasoning ,"So với các video khác trong playlist, bài giảng này được đánh giá cao hay thấp hơn?","Compared to other videos in the playlist, is this lecture rated higher or lower?"
+58,Reasoning ,Các bình luận cho thấy người học học được nhiều nhất ở phần nào?,"Which parts of the lecture do learners appear to benefit from the most, according to the comments?"
+59,Reasoning ,"Tổng hợp các ý kiến, điểm cần cải thiện quan trọng nhất của bài giảng là gì?","Synthesizing the comments, what is the most important aspect of the lecture that needs improvement?"
+60,Numerical ,Có khoảng bao nhiêu bình luận đề cập đến độ khó của bài giảng?,Approximately how many comments mention the difficulty of the lecture?
+61,Numerical ,Tỷ lệ bình luận thể hiện cảm xúc tích cực so với tiêu cực là khoảng bao nhiêu?,What is the approximate ratio of comments expressing positive sentiment to those expressing negative sentiment?
+62,Numerical ,Có bao nhiêu bình luận hỏi về backpropagation hoặc gradient descent?,How many comments ask about backpropagation or gradient descent?
+63,Numerical ,Khoảng bao nhiêu phần trăm bình luận đề cập đến bài tập hoặc assignments?,Approximately what percentage of comments refer to assignments or exercises?
+64,Numerical ,Số lượng bình luận về toán học nền tảng so với mô hình deep learning chênh lệch như thế nào?,How does the number of comments about foundational mathematics compare to those about deep learning models?
+65,Numerical ,Có bao nhiêu bình luận yêu cầu ví dụ minh họa thêm?,How many comments request additional illustrative examples?
+66,Numerical ,"Trong số các bình luận, bao nhiêu bình luận đến từ người mới học?",How many comments appear to come from beginner learners?
+67,Numerical ,Số bình luận tích cực về cách giảng dạy nhiều hay ít hơn bình luận về nội dung?,Are there more or fewer positive comments about the teaching style than about the content itself?
+68,Numerical ,Có bao nhiêu bình luận nhắc đến framework hoặc code implementation?,How many comments mention frameworks or code implementations?
+69,Numerical ,Ước lượng số bình luận thể hiện sự bối rối hoặc không hiểu bài.,Estimate the number of comments expressing confusion or lack of understanding.
+70,Usage Purpose,Người xem chủ yếu sử dụng video này để học nền tảng deep learning hay để ôn tập?,Do viewers mainly use this video for foundational deep learning study or for revision?
+71,Usage Purpose,Có nhiều bình luận cho thấy người học dùng video để làm bài tập hoặc project không?,Are there many comments indicating that learners use the video for assignments or projects?
+72,Usage Purpose,Người xem có sử dụng video này như tài liệu tham khảo bổ trợ cho khóa học khác không?,Do viewers use this video as a supplementary reference for other courses?
+73,Usage Purpose,Video này được người học xem như tài liệu nhập môn hay nâng cao?,Is this video viewed as introductory or advanced learning material by learners?
+74,Usage Purpose,Có bình luận nào cho thấy người học xem lại video nhiều lần để hiểu bài không?,Are there comments indicating that learners watch the video multiple times to understand the content?
+75,Usage Purpose,Người học sử dụng video này nhiều hơn cho tự học hay theo chương trình chính thức?,Do learners use this video more for self-study or as part of a formal curriculum?
+76,Usage Purpose,Các bình luận có cho thấy video được dùng để chuẩn bị cho kỳ thi hoặc phỏng vấn không?,Do the comments indicate that the video is used for exam or interview preparation?
+77,Usage Purpose,Người xem có đề cập đến việc dùng video để củng cố kiến thức đã học trước đó không?,Do viewers mention using the video to reinforce previously learned knowledge?
+78,Usage Purpose,Có dấu hiệu nào cho thấy video giúp người học định hướng lộ trình học deep learning không?,Are there indications that the video helps learners plan their deep learning learning path?
+79,Usage Purpose,"Tổng hợp lại, mục đích sử dụng chính của người xem đối với video này là gì?","Overall, what is the primary purpose for which viewers use this video?"

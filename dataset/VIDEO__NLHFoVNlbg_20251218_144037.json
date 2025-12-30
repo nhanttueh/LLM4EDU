@@ -1,0 +1,1423 @@
+{
+    "title": "Stanford CS230 | Autumn 2025 | Lecture 1: Introduction to Deep Learning",
+    "published_at": "01/10/2025 22:01:07",
+    "view_count": 376490,
+    "like_count": 10812,
+    "favorite_count": 0,
+    "comment_count": 203,
+    "url": "https://www.youtube.com/watch?v=_NLHFoVNlbg",
+    "description": "For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai\n\nSeptember 23, 2025\nThis lecture covers:\n1. Class introduction\n2. Examples of deep learning projects\n3. Course details\n\nTo learn more about enrolling in this course, visit: https://online.stanford.edu/courses/cs230-deep-learning\n\nTo follow along with the course schedule and syllabus, visit: https://cs230.stanford.edu/syllabus/\n\nMore lectures will be published regularly. \nView the playlist: https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X\n\nAndrew Ng\nFounder of DeepLearning.AI\nAdjunct Professor, Stanford University’s Computer Science Department\n\nKian Katanforoosh\nCEO and Founder of Workera\nAdjunct Lecturer, Stanford University’s Computer Science Department",
+    "collected_at": "18/12/2025 14:40:37",
+    "comments": [
+        {
+            "author": "@hesamseraj",
+            "content": "How can guys like us watch those online materials?",
+            "like_count": 0,
+            "published_at": "18/12/2025 03:58:35",
+            "replies": []
+        },
+        {
+            "author": "@bobgilarski9315",
+            "content": "Can we have the AI lectures summarized?",
+            "like_count": 0,
+            "published_at": "16/12/2025 02:01:01",
+            "replies": []
+        },
+        {
+            "author": "@chemistrylearner2096",
+            "content": "Why is this channel underrated",
+            "like_count": 0,
+            "published_at": "11/12/2025 19:58:50",
+            "replies": []
+        },
+        {
+            "author": "@juergenrichter4691",
+            "content": "I wish I had such professors back in my days. Love to follow Andrew's lectures.",
+            "like_count": 0,
+            "published_at": "10/12/2025 04:30:37",
+            "replies": []
+        },
+        {
+            "author": "@xezed",
+            "content": "39:16 ahahaha, they cut it off but you can guess 🤣🤣🤣",
+            "like_count": 1,
+            "published_at": "09/12/2025 05:32:21",
+            "replies": []
+        },
+        {
+            "author": "@brainlife",
+            "content": "Great content, but your microphone is muffled.",
+            "like_count": 0,
+            "published_at": "08/12/2025 18:11:25",
+            "replies": []
+        },
+        {
+            "author": "@sukhdhillon4329",
+            "content": "Thank you Stanford Online",
+            "like_count": 0,
+            "published_at": "04/12/2025 09:12:02",
+            "replies": []
+        },
+        {
+            "author": "@sukhdhillon4329",
+            "content": "Cool",
+            "like_count": 0,
+            "published_at": "04/12/2025 09:10:38",
+            "replies": []
+        },
+        {
+            "author": "@vishalchauhan591",
+            "content": "@standford, where can i find cs129 course",
+            "like_count": 0,
+            "published_at": "03/12/2025 20:02:23",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for your interest. CS129 is not currently offered, but you can use this link to stay updated: https://online.stanford.edu/stay-connected-subscribe-our-updates",
+                    "like_count": 0,
+                    "published_at": "04/12/2025 00:22:17"
+                }
+            ]
+        },
+        {
+            "author": "@vanessaward7421",
+            "content": "i want to say thank you so much for making these videos. I am a beginner and I seem to find all your course study lectures very helpful.",
+            "like_count": 0,
+            "published_at": "03/12/2025 00:02:42",
+            "replies": []
+        },
+        {
+            "author": "@ashrafur7788",
+            "content": "Great lecture",
+            "like_count": 0,
+            "published_at": "27/11/2025 07:37:44",
+            "replies": []
+        },
+        {
+            "author": "@hungreee",
+            "content": "Thank you",
+            "like_count": 0,
+            "published_at": "25/11/2025 04:17:56",
+            "replies": []
+        },
+        {
+            "author": "@mostaafamohamedd14",
+            "content": "بحبك يا ابويا اندروو",
+            "like_count": 0,
+            "published_at": "23/11/2025 17:45:28",
+            "replies": []
+        },
+        {
+            "author": "@enisten",
+            "content": "3:54 How can performance keep getting better and better if it represents accuracy? The most it can be is 100%. Does he mean traditional machine learning models plateaued at unacceptably low rates of accuracy, while DNNs can reach 100% (i.e., perfection) with enough data? Also, doesn't this graph gloss over the possibility of overfitting for larger DNNs? I am assuming the y axis represents accuracy on test sets.",
+            "like_count": 0,
+            "published_at": "23/11/2025 06:17:54",
+            "replies": []
+        },
+        {
+            "author": "@krishsoundar3857",
+            "content": "instructor needs better markers 😂😂😂",
+            "like_count": 0,
+            "published_at": "21/11/2025 06:27:35",
+            "replies": []
+        },
+        {
+            "author": "@amh228",
+            "content": "i found some of these sentiments deeply disturbing, though coming from an all time great!! You only hire people who use code generators?? Especially after noting the damage and potential harm that can come from writing code that we don't fully understand, generated by pattern-producers that err on average 20% of the time.. I think a security nightmare is incoming if this is how other employers think. Truly creative or important work will never be produced by \"making more faster\", we should tread very carefully here. Respectfully disagree with parts of this beautiful lecture.",
+            "like_count": 0,
+            "published_at": "18/11/2025 07:35:37",
+            "replies": []
+        },
+        {
+            "author": "@Metwaly21",
+            "content": "Thank you",
+            "like_count": 0,
+            "published_at": "17/11/2025 23:20:49",
+            "replies": []
+        },
+        {
+            "author": "@바니라셰이쿠",
+            "content": "스탠포드 나오면 주식재벌되나 😂",
+            "like_count": 0,
+            "published_at": "17/11/2025 18:03:42",
+            "replies": []
+        },
+        {
+            "author": "@jsherman1503",
+            "content": "I understood that scaling is now nearing the limit on gains.",
+            "like_count": 0,
+            "published_at": "17/11/2025 11:31:50",
+            "replies": []
+        },
+        {
+            "author": "@MrViktorWahrb",
+            "content": "I'm in highschool right now. I've taken courses in linear algebra and differential equations, but most of my knowledge comes from self-learning. I have a great understanding of stochastic gradient descent and I've programmed my own models in python. Would I have to know anything more before taking CS230 or any similar course? Thanks",
+            "like_count": 0,
+            "published_at": "11/11/2025 20:44:50",
+            "replies": []
+        },
+        {
+            "author": "@marwen_xts",
+            "content": "thanks for letting me learn this with you guys 😍",
+            "like_count": 0,
+            "published_at": "11/11/2025 20:28:14",
+            "replies": []
+        },
+        {
+            "author": "@ccatctc",
+            "content": "I just wanted an overview and found this informative, and appreciate Stanford for making this available to others such as myself.  However I think Prof Ng should be head-hunted by the IPCC, in this week of th Brazilian COP conference, as they could probably do with the assistance.",
+            "like_count": 0,
+            "published_at": "11/11/2025 18:20:50",
+            "replies": []
+        },
+        {
+            "author": "@saltwaterx5100",
+            "content": "Andrew Ng didn't wanna say it, but avoid CS 229 at all costs.",
+            "like_count": 0,
+            "published_at": "10/11/2025 20:33:23",
+            "replies": []
+        },
+        {
+            "author": "@adposty",
+            "content": "Yet another ‘bla-bla-bal’….",
+            "like_count": 0,
+            "published_at": "10/11/2025 13:05:25",
+            "replies": []
+        },
+        {
+            "author": "@Jzzone",
+            "content": "A Stanford student asking what GenAI is and what it encompasses I'm absolutely stunned",
+            "like_count": 0,
+            "published_at": "04/11/2025 21:36:58",
+            "replies": []
+        },
+        {
+            "author": "@hamidabatemam2947",
+            "content": "OMG professor Andrew NG the world number one My favorite instructor Wow follow him carefully he is hero of these generation",
+            "like_count": 0,
+            "published_at": "04/11/2025 18:06:09",
+            "replies": []
+        },
+        {
+            "author": "@Natenezz12",
+            "content": "AI mirrors us.\n\nFeed it noise, and you’ll get confusion.\nFeed it clarity, and you’ll get insight.\n\nThe real intelligence lies not in the algorithm, but in how we frame the input.\n\nInputs matter. Questions matter. Evaluation matters.",
+            "like_count": 0,
+            "published_at": "01/11/2025 23:49:47",
+            "replies": []
+        },
+        {
+            "author": "@StudentLankaTube",
+            "content": "Amazing ❤❤",
+            "like_count": 0,
+            "published_at": "01/11/2025 16:26:57",
+            "replies": []
+        },
+        {
+            "author": "@ZhiWeiCheng",
+            "content": "andrew ng codes in a coffeeshop on the weekend?!",
+            "like_count": 0,
+            "published_at": "31/10/2025 15:36:35",
+            "replies": []
+        },
+        {
+            "author": "@Antut-nf6wz",
+            "content": "Y",
+            "like_count": 0,
+            "published_at": "30/10/2025 13:54:49",
+            "replies": []
+        },
+        {
+            "author": "@bygbyron3",
+            "content": "Thank you Andrew Ng.",
+            "like_count": 0,
+            "published_at": "30/10/2025 01:24:32",
+            "replies": []
+        },
+        {
+            "author": "@sanoopgr8",
+            "content": "Thoroughly enough the course with Andrew. Thanks Stanford for making this course public thus making it accessible for students round the globe.",
+            "like_count": 0,
+            "published_at": "28/10/2025 23:14:48",
+            "replies": []
+        },
+        {
+            "author": "@deutsch-7946",
+            "content": "He's a legend in AI. How fortunate to be able to view his lecture on Y.T.",
+            "like_count": 3,
+            "published_at": "28/10/2025 23:05:17",
+            "replies": []
+        },
+        {
+            "author": "@MelkibsonS",
+            "content": "I have a doubt the instructor tells focus on CS fundamentals but what is CS fundamentals and I  have  a long time code how should i learn (not memorise) a code which is already written by someone or published in textbooks so that in future i could write a similar code like that i want deep answers for it can anyone help me with this",
+            "like_count": 0,
+            "published_at": "28/10/2025 21:37:50",
+            "replies": []
+        },
+        {
+            "author": "@Iceport",
+            "content": "What the heck? This guy does not grow old!?",
+            "like_count": 0,
+            "published_at": "27/10/2025 09:54:08",
+            "replies": []
+        },
+        {
+            "author": "@greg5326",
+            "content": "Hey cool! New CS!",
+            "like_count": 0,
+            "published_at": "27/10/2025 08:01:49",
+            "replies": []
+        },
+        {
+            "author": "@punjabeeplaya",
+            "content": "What a way to see the revolution. What a way to see how some billionaires wiped out the middle class.",
+            "like_count": 0,
+            "published_at": "25/10/2025 21:14:03",
+            "replies": []
+        },
+        {
+            "author": "@adilhussain405",
+            "content": "Al engnerin he is",
+            "like_count": 0,
+            "published_at": "25/10/2025 19:19:40",
+            "replies": []
+        },
+        {
+            "author": "@stacmaz",
+            "content": "Brilliant instruction. I love the format he follows. ❤",
+            "like_count": 0,
+            "published_at": "25/10/2025 02:56:46",
+            "replies": []
+        },
+        {
+            "author": "@rajdeepraol1692",
+            "content": "Autumn 2025 lecture 2 ? There is lecture 3 but no lecture 2?",
+            "like_count": 0,
+            "published_at": "23/10/2025 06:23:56",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching. Here is the full playlist, which includes Lecture 2. https://youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X&si=oaEXufhWaOCt-cbF",
+                    "like_count": 0,
+                    "published_at": "24/10/2025 01:46:54"
+                }
+            ]
+        },
+        {
+            "author": "@wentworthmiller1890",
+            "content": "This is such a gift to mankind! Thank you Prof. Ng and Stanford for sharing the priceless gifts of knowledge for two decades! I find myself returning to lectures posted 17 years ago! In the words of the benevolent Károly Zsolnai-Fehér, \"What a time to be Alive!\" 🙏❤",
+            "like_count": 3,
+            "published_at": "21/10/2025 13:08:00",
+            "replies": [
+                {
+                    "author": "@ccatctc",
+                    "content": "Big data in Dark Energy, genetics and so on.  We are inching closer to understanding the Universe and Life, and it is utterly phenomenological, and which our ancestors had little clue about.  AI will help.  Lucky indeed to be a witness.",
+                    "like_count": 0,
+                    "published_at": "11/11/2025 18:26:37"
+                }
+            ]
+        },
+        {
+            "author": "@wentworthmiller1890",
+            "content": "You're back! Woohoo! Also, 9:40 props to your mum for understanding what we've been struggling with! ",
+            "like_count": 0,
+            "published_at": "20/10/2025 14:19:04",
+            "replies": []
+        },
+        {
+            "author": "@ГеннадийЖабин",
+            "content": "",
+            "like_count": 0,
+            "published_at": "20/10/2025 01:04:21",
+            "replies": []
+        },
+        {
+            "author": "@honon-cs2wl",
+            "content": "i love u professor",
+            "like_count": 0,
+            "published_at": "19/10/2025 11:15:34",
+            "replies": []
+        },
+        {
+            "author": "@bateman-x8e",
+            "content": "why andrew NG man only wears blue every where",
+            "like_count": 0,
+            "published_at": "18/10/2025 02:27:59",
+            "replies": []
+        },
+        {
+            "author": "@DanDokic",
+            "content": "Are we supposed to finish the entire Neural Networks and Deep Learning on Coursera before proceeding to Kian's lecture and further lectures?",
+            "like_count": 0,
+            "published_at": "18/10/2025 01:29:26",
+            "replies": []
+        },
+        {
+            "author": "@AntonioLaPlaca",
+            "content": "This is so awesome, I was watching the deep learning for computer vision course from 2017, and both this and the CV one popped up for 2025~!",
+            "like_count": 1,
+            "published_at": "17/10/2025 21:15:53",
+            "replies": []
+        },
+        {
+            "author": "@j4azz922",
+            "content": "AI is taking CS students' jobs? Who manages AIs lol who will manage all kinds of digitalized materials",
+            "like_count": 0,
+            "published_at": "17/10/2025 14:12:23",
+            "replies": []
+        },
+        {
+            "author": "@GABGpts_fill",
+            "content": "hear ME CLEarly even though youre only reading.  ccomputer vision tactics are being used by rogue media agents to change perceptions ever so slightly. watch january 6th washington post 11 hour version and you will see the chaos subtly being played with.  i am phill asteris and im a prospective student. please get to the bottom of this!",
+            "like_count": 0,
+            "published_at": "17/10/2025 00:46:40",
+            "replies": []
+        },
+        {
+            "author": "@SamanthaGoGo89",
+            "content": "This is amazing! I’m almost a year into my CS journey and I’m excited to keep learning.",
+            "like_count": 0,
+            "published_at": "16/10/2025 04:29:36",
+            "replies": []
+        },
+        {
+            "author": "@ahsanrazakhan007",
+            "content": "Came here from coursera after 8 years later for revision 😅",
+            "like_count": 1,
+            "published_at": "15/10/2025 14:55:58",
+            "replies": []
+        },
+        {
+            "author": "@RameshSreeram-r1k",
+            "content": "good one",
+            "like_count": 0,
+            "published_at": "14/10/2025 02:41:58",
+            "replies": []
+        },
+        {
+            "author": "@NikhilSingh-i3f",
+            "content": "i hope it will continued till end of DL and gen ai",
+            "like_count": 1,
+            "published_at": "14/10/2025 00:37:51",
+            "replies": []
+        },
+        {
+            "author": "@PizzaEditz17",
+            "content": "this is a solid introduction, thanks",
+            "like_count": 0,
+            "published_at": "13/10/2025 04:13:59",
+            "replies": []
+        },
+        {
+            "author": "@RajabNatshah",
+            "content": "Thank you :)",
+            "like_count": 0,
+            "published_at": "13/10/2025 02:17:02",
+            "replies": []
+        },
+        {
+            "author": "@Sanju_Machhi",
+            "content": "who knew deep learning could be this interesting 🤔",
+            "like_count": 0,
+            "published_at": "13/10/2025 01:03:34",
+            "replies": []
+        },
+        {
+            "author": "@rishangfitnesslifestyle",
+            "content": "2nd lecture when ??",
+            "like_count": 0,
+            "published_at": "12/10/2025 22:14:22",
+            "replies": [
+                {
+                    "author": "@orxfn",
+                    "content": "they already posted it...",
+                    "like_count": 0,
+                    "published_at": "13/10/2025 03:17:04"
+                }
+            ]
+        },
+        {
+            "author": "@sebastians528",
+            "content": "so generous of you to post this on Youtube!",
+            "like_count": 1,
+            "published_at": "12/10/2025 12:02:05",
+            "replies": []
+        },
+        {
+            "author": "@RandomYoutuber234",
+            "content": "This took me way back, to when Coursera was starting up. I have my ML course certificate from 2012 and Andrew was the instructor who got me into it ❤",
+            "like_count": 4,
+            "published_at": "12/10/2025 05:22:57",
+            "replies": []
+        },
+        {
+            "author": "@BRichard312",
+            "content": "Just an observation here: It's utterly surprising to me that in 2025, almost 2026, that academic institutions are still using white/chalk boards with which to teach. This confounds me given the irony of the topics about which are being presented, namely technology.",
+            "like_count": 2,
+            "published_at": "11/10/2025 22:48:50",
+            "replies": []
+        },
+        {
+            "author": "@BRichard312",
+            "content": "Yes, watch all the YouTube videos online of the content that we are PAID to teach you while you pay Stanford's undergraduate tuition of $67,731 (2025-2026). That sounds like a wonderful grift Stanford.",
+            "like_count": 0,
+            "published_at": "11/10/2025 22:42:10",
+            "replies": []
+        },
+        {
+            "author": "@trump2800",
+            "content": "Stanford CS230 | Autumn 2025 | Lecture 1: Introduction to Deep Learning",
+            "like_count": 0,
+            "published_at": "11/10/2025 22:24:43",
+            "replies": []
+        },
+        {
+            "author": "@kingtrippy5006",
+            "content": "such a wonderful teacher",
+            "like_count": 0,
+            "published_at": "11/10/2025 07:42:57",
+            "replies": []
+        },
+        {
+            "author": "@keishapc",
+            "content": "I'm all for progress..I feel in awe and feel deeply saddened at the same time.  Being able to decern the information coming in is important, ie:  true, not true.  Sometimes you can just sense something feels off.  But again, I must say, genuis.",
+            "like_count": 0,
+            "published_at": "11/10/2025 06:44:38",
+            "replies": []
+        },
+        {
+            "author": "@aiguuru",
+            "content": "The G.O.A.T",
+            "like_count": 0,
+            "published_at": "11/10/2025 04:13:27",
+            "replies": []
+        },
+        {
+            "author": "@besheanwe",
+            "content": "What a pleasure to be able to sit in on a Stanford class. Everyone needs a refresh.",
+            "like_count": 15,
+            "published_at": "11/10/2025 03:59:29",
+            "replies": []
+        },
+        {
+            "author": "@stevetoscano2611",
+            "content": "“I’m gonna vibe-code this” 😮",
+            "like_count": 0,
+            "published_at": "10/10/2025 01:30:41",
+            "replies": []
+        },
+        {
+            "author": "@surenasoltani2092",
+            "content": "Can you please create a separate playlist for this new 2025 cs30 course?",
+            "like_count": 0,
+            "published_at": "09/10/2025 23:48:36",
+            "replies": [
+                {
+                    "author": "@stanfordonline",
+                    "content": "Thank you for watching. Here is the playlist link: https://youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X&si=NFg2ioMbfMhpaMDb",
+                    "like_count": 3,
+                    "published_at": "10/10/2025 00:29:36"
+                }
+            ]
+        },
+        {
+            "author": "@ChairmanHehe",
+            "content": "needs better audio",
+            "like_count": 0,
+            "published_at": "09/10/2025 03:09:00",
+            "replies": []
+        },
+        {
+            "author": "@donaldredmond2326",
+            "content": "Very valuable. Thank you, Stanford.",
+            "like_count": 0,
+            "published_at": "08/10/2025 19:45:36",
+            "replies": []
+        },
+        {
+            "author": "@Syphax2025",
+            "content": "the GOAT is Back",
+            "like_count": 2,
+            "published_at": "08/10/2025 12:54:46",
+            "replies": []
+        },
+        {
+            "author": "@AdeVenture",
+            "content": "Thank you Andrew, It answers my questions on how to be the best software developer in the world!",
+            "like_count": 0,
+            "published_at": "08/10/2025 06:17:51",
+            "replies": []
+        },
+        {
+            "author": "@globetrotter9212",
+            "content": "Truth and beauty joke is funny 17:55",
+            "like_count": 1,
+            "published_at": "08/10/2025 02:11:13",
+            "replies": []
+        },
+        {
+            "author": "@jamallmahmoudi",
+            "content": "Professor Andrew is always on another level! Every time he teaches, it feels like the world of AI is being reborn ❤👌🙏\nLove how he still teaches with that unmatched energy and clarity",
+            "like_count": 0,
+            "published_at": "07/10/2025 19:19:18",
+            "replies": []
+        },
+        {
+            "author": "@jhoncharlesdf.1599",
+            "content": "What NICE Prof Andrew ARE, this just means what he is! Nice very Nice!, The most power and that iA can't Do? is to make a natural sens like us each with others ;-)",
+            "like_count": 0,
+            "published_at": "07/10/2025 19:19:13",
+            "replies": []
+        },
+        {
+            "author": "@sophie____",
+            "content": "Andrew truly is an awesome teacher, I never feel dumb when listening to his teachings. Thank you for sharing these publicly!",
+            "like_count": 1,
+            "published_at": "07/10/2025 17:32:43",
+            "replies": []
+        },
+        {
+            "author": "@FIGHTERGAMING2893",
+            "content": "wish my classes explained it like this 🤔",
+            "like_count": 0,
+            "published_at": "07/10/2025 10:22:47",
+            "replies": []
+        },
+        {
+            "author": "@alishair2509",
+            "content": "finally understand the basics of deep learning 🧠",
+            "like_count": 0,
+            "published_at": "07/10/2025 07:59:09",
+            "replies": []
+        },
+        {
+            "author": "@sellingbd8804",
+            "content": "never thought i'd be watching stanford lectures online lol",
+            "like_count": 0,
+            "published_at": "07/10/2025 05:14:27",
+            "replies": []
+        },
+        {
+            "author": "@zayan_alvy.15",
+            "content": "The Man, The Myth, The GOAT",
+            "like_count": 5,
+            "published_at": "07/10/2025 01:10:52",
+            "replies": []
+        },
+        {
+            "author": "@mayor3273",
+            "content": "Back in 2013, it was my first job  after college. I  took the first class  from Andrew when working then I decided to reduce my work hours to be able complete this class with 94% avg. and also to see 2/5 of my salary deducted in my payslip :))",
+            "like_count": 1,
+            "published_at": "06/10/2025 21:51:59",
+            "replies": [
+                {
+                    "author": "@helmi8962",
+                    "content": "Are you a software engineer now?",
+                    "like_count": 0,
+                    "published_at": "07/10/2025 15:11:31"
+                }
+            ]
+        },
+        {
+            "author": "@Mẹonhỏđờisống-e5u",
+            "content": "wow and Wow. Thank ad",
+            "like_count": 1,
+            "published_at": "06/10/2025 20:05:08",
+            "replies": []
+        },
+        {
+            "author": "@SolvingOptimizationProblems",
+            "content": "How do we pronounce the professor's name \"Ng\". Thank you prof Andrew Ng for the great lecture about deep learning.",
+            "like_count": 3,
+            "published_at": "06/10/2025 18:43:58",
+            "replies": []
+        },
+        {
+            "author": "@ZeroLag-t2t",
+            "content": "Olovka is great for keeping my deep learning notes organized. Can't imagine studying without it!",
+            "like_count": 18,
+            "published_at": "06/10/2025 15:58:06",
+            "replies": []
+        },
+        {
+            "author": "@ommanojsharma7118",
+            "content": "The OG is back ..... The clarity andrew ng delivers is unparalleled till .. if anyone facing issue fix your maths basics first",
+            "like_count": 5,
+            "published_at": "06/10/2025 14:29:54",
+            "replies": []
+        },
+        {
+            "author": "@larryczerwonka5125",
+            "content": "AI is great for quick and dirty prototyping. Speeds up how quickly i can get to something i can share with a client.\nBut it is never connected to a \"live\" database but a copy of the database on a separate server from the actual data.\nLOVE hearing you talk about the need to be working with the data.\nDon't learn to code means you lack the ability to ever fix the code that AI wrote.",
+            "like_count": 1,
+            "published_at": "06/10/2025 12:07:33",
+            "replies": []
+        },
+        {
+            "author": "@nathaniajessie",
+            "content": "GOATTTT",
+            "like_count": 2,
+            "published_at": "06/10/2025 08:35:46",
+            "replies": []
+        },
+        {
+            "author": "@fmsilva11",
+            "content": "I really enjoy listening to Dr. Andrew Ng, I loved his videos on Coursera about ML",
+            "like_count": 2,
+            "published_at": "06/10/2025 03:04:23",
+            "replies": []
+        },
+        {
+            "author": "@ZeryusXD",
+            "content": "AI to replace lecturers??! Hell no!! This lecture with Andrew is gold!",
+            "like_count": 14,
+            "published_at": "06/10/2025 02:34:32",
+            "replies": []
+        },
+        {
+            "author": "@bilbot8195",
+            "content": "Thank you, please keep posting!",
+            "like_count": 2,
+            "published_at": "06/10/2025 00:17:14",
+            "replies": []
+        },
+        {
+            "author": "@peterbedford2610",
+            "content": "Thanks for posting this",
+            "like_count": 4,
+            "published_at": "06/10/2025 00:08:40",
+            "replies": []
+        },
+        {
+            "author": "@frankkimitch5381",
+            "content": "I love how he looks at his papers to see what month and year we are in 🤣",
+            "like_count": 45,
+            "published_at": "05/10/2025 22:29:40",
+            "replies": [
+                {
+                    "author": "@ClintMarsden",
+                    "content": "The real life version of *checks notes* !",
+                    "like_count": 0,
+                    "published_at": "29/11/2025 03:23:25"
+                }
+            ]
+        },
+        {
+            "author": "@ShuoLiang-h1b",
+            "content": "Excuse me, do you happen to have the lecture slides and the post-class quiz for this lesson? Thank you very much!",
+            "like_count": 6,
+            "published_at": "05/10/2025 08:17:16",
+            "replies": []
+        },
+        {
+            "author": "@sturts1234",
+            "content": "the coming genrationals will apretiate the affort you guys put in for the future of there vague career paths that are about to come and become main stream.",
+            "like_count": 1,
+            "published_at": "05/10/2025 07:08:18",
+            "replies": []
+        },
+        {
+            "author": "@Nanditarwat2308",
+            "content": "Thankyou fo this Stanford , so excited to learn and build.",
+            "like_count": 2,
+            "published_at": "05/10/2025 03:32:05",
+            "replies": []
+        },
+        {
+            "author": "@rashidi.",
+            "content": "the most awaited course, hey please provide pdf of this series. here i am Umar Muhammad Ahmad",
+            "like_count": 1,
+            "published_at": "05/10/2025 02:59:23",
+            "replies": []
+        },
+        {
+            "author": "@auxreves4957",
+            "content": "is it possible to do the projects without enrolling?",
+            "like_count": 1,
+            "published_at": "05/10/2025 01:06:19",
+            "replies": []
+        },
+        {
+            "author": "@maratgarifullin6950",
+            "content": "Thank you! We will improve our knowledge.😊",
+            "like_count": 1,
+            "published_at": "05/10/2025 00:45:55",
+            "replies": []
+        },
+        {
+            "author": "@chattest2948",
+            "content": "1",
+            "like_count": 0,
+            "published_at": "05/10/2025 00:07:41",
+            "replies": []
+        },
+        {
+            "author": "@JubrilIfekoya",
+            "content": "This solidify my belief that Machine Learning should be adapted by student in different domain",
+            "like_count": 3,
+            "published_at": "04/10/2025 21:47:35",
+            "replies": []
+        },
+        {
+            "author": "@twburrows69",
+            "content": "I wonder if we can use AI to put a stop to bullying.  I am concerned about social media turning people into angry mobs.  To me it seems people jump on the bully side and help the bully rather than help the innocent person who should be defended in public.  Can AI help make our society better and healthier?",
+            "like_count": 5,
+            "published_at": "04/10/2025 21:16:47",
+            "replies": []
+        },
+        {
+            "author": "@twburrows69",
+            "content": "Don't know how I stumbled onto this lecture but very interesting and well delivered.  To me, with no background at all in the subject, I think the most important part of fine tuning this procedure is critically analyzing the data and make sure you input the best data rather than more data.",
+            "like_count": 1,
+            "published_at": "04/10/2025 21:08:50",
+            "replies": [
+                {
+                    "author": "@twburrows69",
+                    "content": "Kind of like a garden, you have to pick out the weeds so the vegetables will get all the nutrition from the soil to grow to their maximum potential.",
+                    "like_count": 1,
+                    "published_at": "04/10/2025 21:12:11"
+                }
+            ]
+        },
+        {
+            "author": "@sra-cu6fz",
+            "content": "It's great to see Andrew doing this  again. The advice for CS undergrads is priceless. I have passed it on.",
+            "like_count": 33,
+            "published_at": "04/10/2025 21:03:39",
+            "replies": []
+        },
+        {
+            "author": "@TinyFinger101",
+            "content": "And this is just free….",
+            "like_count": 0,
+            "published_at": "04/10/2025 20:15:36",
+            "replies": []
+        },
+        {
+            "author": "@akramalsheikh1",
+            "content": "when will lecture 2 be uploaded?",
+            "like_count": 32,
+            "published_at": "04/10/2025 16:57:39",
+            "replies": [
+                {
+                    "author": "@sebastians528",
+                    "content": "My guess is its ongoing no? The lectures must be happening as we speak.\n\nWhen work is less frantic I may start following along with the homework.",
+                    "like_count": 1,
+                    "published_at": "12/10/2025 12:04:04"
+                },
+                {
+                    "author": "@akramalsheikh1",
+                    "content": "​@sebastians528agreed , was just too excited 😂",
+                    "like_count": 0,
+                    "published_at": "12/10/2025 15:27:03"
+                },
+                {
+                    "author": "@nwaneri0",
+                    "content": "Lecture 5 was uploaded yesterday",
+                    "like_count": 1,
+                    "published_at": "02/11/2025 21:04:41"
+                }
+            ]
+        },
+        {
+            "author": "@gefallenesobst",
+            "content": "Stanford !Thank you SO much for helping the international students with your brilliant knowledge! You will never know how much this means to us!",
+            "like_count": 6,
+            "published_at": "04/10/2025 14:55:14",
+            "replies": []
+        },
+        {
+            "author": "@Therealbrez",
+            "content": "RETURN OF THE KING 👑👑👑",
+            "like_count": 5,
+            "published_at": "04/10/2025 14:47:37",
+            "replies": []
+        },
+        {
+            "author": "@arshadhammad",
+            "content": "If I were to plot the data where on X-Axis there was time in years and on Y-Axis there were number of people inspired by Andrew Ng. This would be an exponential graph, and Y-Axis will have numbers in Millions!\n\nA true legend, and the most under rated human being of this Millenia!",
+            "like_count": 3,
+            "published_at": "04/10/2025 13:36:03",
+            "replies": []
+        },
+        {
+            "author": "@lovemeijiang",
+            "content": "OMG! He is back!",
+            "like_count": 2,
+            "published_at": "04/10/2025 11:24:16",
+            "replies": []
+        },
+        {
+            "author": "@josephdong8581",
+            "content": "AI certainly do much better at leetcode type of well-defined problem. But on the software engineering side, this is about computational modeling of dynamic events of the world and of humanity. This is at meta level not any AI is good at yet.",
+            "like_count": 1,
+            "published_at": "04/10/2025 10:55:01",
+            "replies": []
+        },
+        {
+            "author": "@metaversebit",
+            "content": "Where is lectute 2??",
+            "like_count": 2,
+            "published_at": "04/10/2025 10:37:39",
+            "replies": []
+        },
+        {
+            "author": "@jondoe4694",
+            "content": "Glad to see this today 03-Oct-2025!",
+            "like_count": 1,
+            "published_at": "04/10/2025 10:14:25",
+            "replies": []
+        },
+        {
+            "author": "@OppaAI-y2k",
+            "content": "Thank you for the lecture. I hope I could apply the knowledge from your lectures into my AI system.",
+            "like_count": 1,
+            "published_at": "04/10/2025 10:07:21",
+            "replies": []
+        },
+        {
+            "author": "@mohammedalmukhtar5428",
+            "content": "Professor Andrew Ng, is a league by himself..outstanding, humble man, yet his experience and knowledge..beyond any others!",
+            "like_count": 2,
+            "published_at": "04/10/2025 09:17:50",
+            "replies": []
+        },
+        {
+            "author": "@stianmaurstad",
+            "content": "Thanks for doing this Stanford! Setting a great example for others to follow ❤",
+            "like_count": 10,
+            "published_at": "04/10/2025 02:41:06",
+            "replies": []
+        },
+        {
+            "author": "@heyFahad",
+            "content": "Can we expect all the lectures to be uploaded here on YouTube like this? Also, where can I find the rest of the online videos to watch before the next lecture video?",
+            "like_count": 1,
+            "published_at": "04/10/2025 02:19:24",
+            "replies": []
+        },
+        {
+            "author": "@Ksa.sm1",
+            "content": "ماني فاهم شيء ان شاء الله ارجع مستقبلا بعد ما ادرس انجليزي واشوف المحاضره وافهمها👍",
+            "like_count": 7,
+            "published_at": "04/10/2025 01:42:17",
+            "replies": [
+                {
+                    "author": "@바니라셰이쿠",
+                    "content": "응 그러자",
+                    "like_count": 0,
+                    "published_at": "17/11/2025 18:04:16"
+                }
+            ]
+        },
+        {
+            "author": "@CollegeGuide018",
+            "content": "Hope to learn so much from this series",
+            "like_count": 1,
+            "published_at": "04/10/2025 01:08:51",
+            "replies": []
+        },
+        {
+            "author": "@AsifMarwatX",
+            "content": "Thankyou Stanford ,Thankyou Andrew❤",
+            "like_count": 1,
+            "published_at": "03/10/2025 23:46:51",
+            "replies": []
+        },
+        {
+            "author": "@Abduqahhor-f5w",
+            "content": "amazing",
+            "like_count": 0,
+            "published_at": "03/10/2025 23:43:44",
+            "replies": []
+        },
+        {
+            "author": "@Lol56451",
+            "content": "Thank you so much!! Very very exited about this series and also about the CS229 series. Please continue to upload both. Thanks again so much!!",
+            "like_count": 4,
+            "published_at": "03/10/2025 20:56:02",
+            "replies": []
+        },
+        {
+            "author": "@xyligan123",
+            "content": "1:30 God bless Stanford!",
+            "like_count": 1,
+            "published_at": "03/10/2025 20:51:44",
+            "replies": []
+        },
+        {
+            "author": "@Мария30546",
+            "content": "Класс! Благодарю за возможность обучаться у лучших!",
+            "like_count": 1,
+            "published_at": "03/10/2025 20:36:14",
+            "replies": []
+        },
+        {
+            "author": "@gjbjjbbj632",
+            "content": "The goat is back",
+            "like_count": 1,
+            "published_at": "03/10/2025 20:27:06",
+            "replies": []
+        },
+        {
+            "author": "@TheSummerLab1",
+            "content": "47:50 \nAI is still not good at WebGPU and WebGL - basically any 3D web programming. Lack of training data is the reason. One of the interesting results is that if people stop coding, AI will enter into a self reinforcing loop - where it is no more guided by relevance, and in many cases have a negative feedback loop of hallucination if original content is not produced.",
+            "like_count": 3,
+            "published_at": "03/10/2025 20:07:39",
+            "replies": [
+                {
+                    "author": "@trprss",
+                    "content": "People will still fix the mistakes done by AI, so when it is retrained on the corrected mistakes, it will be a form of RLHF",
+                    "like_count": 2,
+                    "published_at": "03/10/2025 23:39:08"
+                }
+            ]
+        },
+        {
+            "author": "@ISAGII90",
+            "content": "What is CS129, is it available on YouTube? If not where can i access it? CS229 was on Machine Learning, i found the relevant playlist on YouTube.",
+            "like_count": 0,
+            "published_at": "03/10/2025 19:50:52",
+            "replies": []
+        },
+        {
+            "author": "@AliAli-u2m7o",
+            "content": "Andrew name of gold\nWe are so thankful to you and Stanford university",
+            "like_count": 2,
+            "published_at": "03/10/2025 18:21:29",
+            "replies": []
+        },
+        {
+            "author": "@rohullahkarimi744",
+            "content": "People in the past it is so boring n hard 😅\nNow Deeplearning is exciting n magic \n\nCause everyone into it but at the beginning people were afraid n not took those first steps cause not that much popular\n\nIt shows u shoyld go all in inspite of everything cause right is right if one person doing it\n\n\nIt is all about those raw boring stuffs rhat seems so complicated at first 😅",
+            "like_count": 2,
+            "published_at": "03/10/2025 15:14:18",
+            "replies": []
+        },
+        {
+            "author": "@AyoubShinab",
+            "content": "Thank you Stanford, The instructor was really honest about what as students we need to focus on these years. \n❤",
+            "like_count": 1,
+            "published_at": "03/10/2025 14:37:16",
+            "replies": []
+        },
+        {
+            "author": "@SixOhFive",
+            "content": "I ❤ STANFORD!",
+            "like_count": 2,
+            "published_at": "03/10/2025 12:24:15",
+            "replies": []
+        },
+        {
+            "author": "@Math_kru_earng",
+            "content": "WOW",
+            "like_count": 3,
+            "published_at": "03/10/2025 11:54:21",
+            "replies": []
+        },
+        {
+            "author": "@caiocargnincardoso9108",
+            "content": "❤",
+            "like_count": 2,
+            "published_at": "03/10/2025 09:43:47",
+            "replies": []
+        },
+        {
+            "author": "@ThePlayMakers-4",
+            "content": "To learn ML from Andrew Ng in this age is to learn physics from Isaac Newton himself.",
+            "like_count": 56,
+            "published_at": "03/10/2025 04:17:42",
+            "replies": [
+                {
+                    "author": "@SixOhFive",
+                    "content": "❤",
+                    "like_count": 3,
+                    "published_at": "03/10/2025 12:25:28"
+                },
+                {
+                    "author": "@JohnQHaemoglobin",
+                    "content": "Ng learned ML from Michael Jordan, who learned it from David Rumelhart, who with James McClelland got ML going with PDP. But don’t mind me.",
+                    "like_count": 2,
+                    "published_at": "29/10/2025 07:59:14"
+                }
+            ]
+        },
+        {
+            "author": "@whynesspower",
+            "content": "So happy to see the series continuing from 229 to 230 with Andrew Back",
+            "like_count": 2,
+            "published_at": "03/10/2025 00:22:37",
+            "replies": []
+        },
+        {
+            "author": "@tapu_",
+            "content": "I started watching CS229 lectures from 2022 a few weeks ago. Glad that a more up-to-date course is being uploaded",
+            "like_count": 19,
+            "published_at": "02/10/2025 23:16:08",
+            "replies": [
+                {
+                    "author": "@enisten",
+                    "content": "Hopefully they will upload more than just the first lecture to wet our appetite!",
+                    "like_count": 3,
+                    "published_at": "02/10/2025 23:45:14"
+                },
+                {
+                    "author": "@TheSummerLab1",
+                    "content": "CS229 is Machine Learning. This is on Deep Learning.",
+                    "like_count": 2,
+                    "published_at": "03/10/2025 18:24:58"
+                }
+            ]
+        },
+        {
+            "author": "@omarwagmes",
+            "content": "The legend is back",
+            "like_count": 3,
+            "published_at": "02/10/2025 23:11:10",
+            "replies": []
+        },
+        {
+            "author": "@W13NOMAN",
+            "content": "good start as I was done with AI and ML so am jumping deeply on Deep learning.",
+            "like_count": 4,
+            "published_at": "02/10/2025 21:28:29",
+            "replies": []
+        },
+        {
+            "author": "@sbhusi",
+            "content": "Andrew Ng is amazing Teacher",
+            "like_count": 6,
+            "published_at": "02/10/2025 20:40:48",
+            "replies": []
+        },
+        {
+            "author": "@MarcusWang-c2x",
+            "content": "I needed this so badly, saved by Andrew again",
+            "like_count": 2,
+            "published_at": "02/10/2025 19:28:54",
+            "replies": []
+        },
+        {
+            "author": "@akhilkanigicharla1436",
+            "content": "😊 Cool",
+            "like_count": 2,
+            "published_at": "02/10/2025 17:06:37",
+            "replies": []
+        },
+        {
+            "author": "@arkajyotighosh7126",
+            "content": "Don't stop this at 1st video like the Oxford people",
+            "like_count": 22,
+            "published_at": "02/10/2025 16:52:56",
+            "replies": [
+                {
+                    "author": "@spiderLeo0",
+                    "content": "Obviously they stopped 😢",
+                    "like_count": 2,
+                    "published_at": "07/10/2025 22:30:26"
+                },
+                {
+                    "author": "@globetrotter9212",
+                    "content": "😮",
+                    "like_count": 0,
+                    "published_at": "08/10/2025 02:11:46"
+                }
+            ]
+        },
+        {
+            "author": "@MrAhsan99",
+            "content": "Will you be uploading the rest of lectures on youtube?",
+            "like_count": 12,
+            "published_at": "02/10/2025 16:44:27",
+            "replies": [
+                {
+                    "author": "@nwaneri0",
+                    "content": "Lecture 5 was uploaded yesterday",
+                    "like_count": 0,
+                    "published_at": "02/11/2025 21:04:36"
+                }
+            ]
+        },
+        {
+            "author": "@utkarshsri07",
+            "content": "Let's go",
+            "like_count": 2,
+            "published_at": "02/10/2025 16:43:14",
+            "replies": []
+        },
+        {
+            "author": "@huynhduong2342",
+            "content": "THE GOAT IS BACK!",
+            "like_count": 2,
+            "published_at": "02/10/2025 16:27:06",
+            "replies": []
+        },
+        {
+            "author": "@Mani_reddy69",
+            "content": "Bro was wearing the same shirt when the ML revolution began.",
+            "like_count": 64,
+            "published_at": "02/10/2025 13:28:31",
+            "replies": [
+                {
+                    "author": "@LawAdagbon",
+                    "content": "😂😂😂😂😂😂",
+                    "like_count": 2,
+                    "published_at": "27/10/2025 23:45:56"
+                },
+                {
+                    "author": "@jimz975",
+                    "content": "Same hair style and same accent 😂",
+                    "like_count": 1,
+                    "published_at": "30/10/2025 05:52:45"
+                }
+            ]
+        },
+        {
+            "author": "@tonireyes844",
+            "content": "The Goat is back again, thank you Stanford for this priceless opportunity to learn about DL with Andrew.",
+            "like_count": 96,
+            "published_at": "02/10/2025 10:57:16",
+            "replies": [
+                {
+                    "author": "@marcosantiago6818",
+                    "content": "He is definitely the GOAT! I've taken his courses on AI/ML on Coursera, Stanford Online.",
+                    "like_count": 0,
+                    "published_at": "14/12/2025 15:20:42"
+                }
+            ]
+        },
+        {
+            "author": "@Muhammadzeb-n2t",
+            "content": "wer are very excited",
+            "like_count": 2,
+            "published_at": "02/10/2025 09:46:19",
+            "replies": []
+        },
+        {
+            "author": "@Gemile",
+            "content": "Give a big thank from vietnam ",
+            "like_count": 3,
+            "published_at": "02/10/2025 09:40:31",
+            "replies": []
+        },
+        {
+            "author": "@ffriendd",
+            "content": "No why did you cut it out i wanted to hear what he had to say at 39:30",
+            "like_count": 6,
+            "published_at": "02/10/2025 07:05:42",
+            "replies": [
+                {
+                    "author": "@akramalsheikh1",
+                    "content": "haha me too!",
+                    "like_count": 1,
+                    "published_at": "04/10/2025 20:23:06"
+                }
+            ]
+        },
+        {
+            "author": "@joseph24gt",
+            "content": "!",
+            "like_count": 3,
+            "published_at": "02/10/2025 06:55:34",
+            "replies": []
+        },
+        {
+            "author": "@d_oddy",
+            "content": "Is this a new lecture or an old one?",
+            "like_count": 2,
+            "published_at": "02/10/2025 06:35:15",
+            "replies": []
+        },
+        {
+            "author": "@codefordev911",
+            "content": "Thanks, Prof Andrew, for giving these lectures , and many thanks to Stanford University for providing  such a great opportunity to the whole world, God bless you",
+            "like_count": 14,
+            "published_at": "02/10/2025 03:58:30",
+            "replies": []
+        },
+        {
+            "author": "@eriveltoesilva",
+            "content": "Nice content",
+            "like_count": 2,
+            "published_at": "02/10/2025 03:34:06",
+            "replies": []
+        },
+        {
+            "author": "@FC8KHD",
+            "content": "The man, the myth, the legend! Excited for this much needed refresher on Deep Learning since the course first published a decade ago.",
+            "like_count": 8,
+            "published_at": "02/10/2025 02:58:18",
+            "replies": []
+        },
+        {
+            "author": "@AzharAli-n5c",
+            "content": "Great 👍👍😊",
+            "like_count": 2,
+            "published_at": "02/10/2025 02:19:21",
+            "replies": []
+        },
+        {
+            "author": "@fuzzy-life",
+            "content": "and the great grandad of ML mooc is back!",
+            "like_count": 2,
+            "published_at": "02/10/2025 02:05:15",
+            "replies": []
+        },
+        {
+            "author": "@komaksym",
+            "content": "And we're back!!! Please also upload CS229 | 2025",
+            "like_count": 6,
+            "published_at": "02/10/2025 01:41:54",
+            "replies": []
+        },
+        {
+            "author": "@vrajpat3lll",
+            "content": "Was waiting for this since 2 years",
+            "like_count": 3,
+            "published_at": "01/10/2025 23:55:46",
+            "replies": []
+        },
+        {
+            "author": "@1niw",
+            "content": "நன்றி.Thank you prof. Andrew ng\nAll the way from Tamil Nadu South India.",
+            "like_count": 9,
+            "published_at": "01/10/2025 23:44:47",
+            "replies": []
+        },
+        {
+            "author": "@Bab-z5v",
+            "content": "The GOAT",
+            "like_count": 4,
+            "published_at": "01/10/2025 23:32:18",
+            "replies": []
+        },
+        {
+            "author": "@aformerogr",
+            "content": "Oh Man this is Amaizng the 2018 DL Lectures were a delight can't imagine how exciting this updated version will be thank you Andrew and Stanford for your commitment to sharing world class education for people on the internet for free!",
+            "like_count": 30,
+            "published_at": "01/10/2025 23:21:38",
+            "replies": [
+                {
+                    "author": "@claudiorodolfo6713",
+                    "content": "The thing is that we don't take profit from networking and that's the most important stuff when you assist at this kind of universities.",
+                    "like_count": 1,
+                    "published_at": "05/10/2025 07:25:05"
+                },
+                {
+                    "author": "@alpt1980",
+                    "content": "@claudiorodolfo6713 I see your point but lets not underestimate the internet network though. In today's world everyone has a chance to learn with minimal effort( an internet connection and a device ). That's good.",
+                    "like_count": 0,
+                    "published_at": "17/10/2025 13:20:46"
+                }
+            ]
+        },
+        {
+            "author": "@PratikChatse",
+            "content": "The person who started this revolution! A generation of AI engineers owe the career to you. Thank you! ❤",
+            "like_count": 304,
+            "published_at": "01/10/2025 23:20:55",
+            "replies": [
+                {
+                    "author": "@dixon1e",
+                    "content": "At the end of the first time he gave his original machine learning class online, we all showered him with such affection that he (I believe) cried (just a bit) at the last lecture thanking us for the experience. We were blown away by how easy he made it to learn something so complex.\n\nA fundamental part of why we do what we do in Computer Science and the wider world involves empathy. And this is far more uncommon than it should be. That puts him in a far different, and higher league. \n\nWell done, Andrew Ng.",
+                    "like_count": 6,
+                    "published_at": "19/10/2025 04:38:49"
+                },
+                {
+                    "author": "@karT1455",
+                    "content": "⁠@dixon1ewell said. The humility and empathy shown by this man shows his class.",
+                    "like_count": 1,
+                    "published_at": "29/10/2025 04:18:17"
+                },
+                {
+                    "author": "@jarnix2",
+                    "content": "It's not him.",
+                    "like_count": 0,
+                    "published_at": "01/11/2025 02:45:33"
+                },
+                {
+                    "author": "@aim8604",
+                    "content": "Q",
+                    "like_count": 0,
+                    "published_at": "15/11/2025 08:21:07"
+                },
+                {
+                    "author": "@senadmlloja3202",
+                    "content": "well said!",
+                    "like_count": 0,
+                    "published_at": "28/11/2025 05:22:14"
+                }
+            ]
+        },
+        {
+            "author": "@RaviKumar-mx4od",
+            "content": "I am very excited 😊",
+            "like_count": 5,
+            "published_at": "01/10/2025 23:14:25",
+            "replies": []
+        },
+        {
+            "author": "@CQC_Agent_77",
+            "content": "WAIT WHAT !!! IS THIS FOR REAL ??",
+            "like_count": 6,
+            "published_at": "01/10/2025 23:03:21",
+            "replies": [
+                {
+                    "author": "@pxlmusicby",
+                    "content": "It is 😂",
+                    "like_count": 2,
+                    "published_at": "01/10/2025 23:20:18"
+                }
+            ]
+        },
+        {
+            "author": "@siddigkasir9115",
+            "content": "amazing",
+            "like_count": 2,
+            "published_at": "01/10/2025 22:49:36",
+            "replies": []
+        },
+        {
+            "author": "@DhrubaPatra1611",
+            "content": "interesting this guy is back.",
+            "like_count": 2,
+            "published_at": "01/10/2025 22:49:27",
+            "replies": []
+        },
+        {
+            "author": "@sagarm18",
+            "content": "Gurur Saakshaat Parabrahma. Respect to my guru through Coursera!🙏",
+            "like_count": 14,
+            "published_at": "01/10/2025 22:30:43",
+            "replies": []
+        },
+        {
+            "author": "@PodCastLoop2024",
+            "content": "Wow thats great and im an undergraduate in ai im really exited becuase in uni they are not teaching us ML and DL right now but im working on it because im really excited about it ,if anyone has any advice they can share.and by the im also reading book of Ian Goodfellow about DeepLearning.thanks Dr Andrew NG\nEdit :How to get to these harvard university community or this class group to share our learning and stuff like that and learn from them as well and some projects together.",
+            "like_count": 3,
+            "published_at": "01/10/2025 22:15:35",
+            "replies": []
+        },
+        {
+            "author": "@MatijaGrcic",
+            "content": "Who doesn't want learning that is really deep. Love it.",
+            "like_count": 16,
+            "published_at": "01/10/2025 22:08:41",
+            "replies": []
+        },
+        {
+            "author": "@pxlmusicby",
+            "content": "Really excited for this series 🔥🔥",
+            "like_count": 25,
+            "published_at": "01/10/2025 22:05:19",
+            "replies": []
+        },
+        {
+            "author": "@nickotrondou7481",
+            "content": "da king is back",
+            "like_count": 8,
+            "published_at": "01/10/2025 22:02:18",
+            "replies": []
+        }
+    ]
+}
